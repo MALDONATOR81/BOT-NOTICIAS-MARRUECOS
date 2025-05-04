@@ -1,0 +1,1339 @@
+[2025-03-25 22:44:44.397968] 🟢 Bot de noticias iniciado
+[2025-03-25 22:44:49.000884] ✅ Enviada noticia: Traqué partout, le « Messi du haschich » introuvable se trouverait au Maroc
+[2025-03-25 22:44:50.958624] ✅ Enviada noticia: تضم مغربيين.. تفكيك شبكة تزور شهادات السكنى بألميريا لفائدة المهاجرين
+[2025-03-25 22:44:51.324728] ✅ Enviada noticia: توقيف شخص حاول تهريب الحشيش في حذائه بمعبر باب سبتة
+[2025-03-25 22:45:02.507369] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b008e5d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:45:02.848269] ✅ Enviada noticia: إحباط محاولة تهريب 46 رزمة من الحشيش مخبأة داخل حذاء بسبتة
+[2025-03-25 22:45:12.902651] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b008d390>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:45:13.263619] ✅ Enviada noticia: الأمن يوقف شخصين بشفشاون وفاس بتهمة التحريض الرقمي على الهجرة غير الشرعية
+[2025-03-25 22:45:15.829015] ✅ Enviada noticia: Recherché par Interpol, un trafiquant de drogue suédois arrêté au port de Tanger Med
+[2025-03-25 22:45:16.273887] ✅ Enviada noticia: Ouezzane : 3 kg de cocaïne saisis, arrestation de deux suspects
+[2025-03-25 22:45:42.581260] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b0ac0fd0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:45:42.917467] ✅ Enviada noticia: بعد توثيق تهورهم على الإنترنت.. الأمن يضرب بقوة في مثلث السياقة الاستعراضية بسوس بتنسيق مع DST
+[2025-03-25 22:45:55.584246] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b0aa0250>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:45:55.932864] ✅ Enviada noticia: توقيف شاب في شفشاون على خلفية التحريض على اقتحام سياج الفنيدق-سبتة
+[2025-03-25 22:46:14.234402] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b009e210>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:46:14.621763] ✅ Enviada noticia: توقيف 3 أشخاص وإحباط محاولة لتهريب المخدرات بميناء طانطان
+[2025-03-25 22:46:24.635411] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b0ad3910>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:46:24.997791] ✅ Enviada noticia: بروكسيل تُبرأ المغرب من التهريب الضريبي في صادرات الطماطم
+[2025-03-25 22:46:35.025503] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4b009a5d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-25 22:46:35.371181] ✅ Enviada noticia: سائق “تريبورتور” يسحل قائدًا لمسافة 20 مترًا بالجديدة والنيابة العامة تتدخل
+[2025-03-25 23:28:58.827784] 🟢 Bot de noticias iniciado
+[2025-03-26 08:49:46.550729] 🟢 Bot de noticias iniciado
+[2025-03-26 08:50:02.526384] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5d13a2510>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-26 08:50:02.888368] ✅ Enviada noticia: بليونش.. تعزيز أمني مشترك لمكافحة الهجرة غير النظامية خلال شهر رمضان
+[2025-03-26 09:38:09.495711] 🟢 Bot de noticias iniciado
+[2025-03-26 09:42:09.851135] ❗ Latido perdido. Forzando salida.
+[2025-03-26 09:46:10.050950] 🟢 Bot de noticias iniciado
+[2025-03-26 09:51:10.387678] ❗ Latido perdido. Forzando salida.
+[2025-03-26 09:59:06.748181] 🟢 Bot de noticias iniciado
+[2025-03-26 10:29:22.681390] ⚠️ Bot detenido por señal
+[2025-03-26 10:29:23.433720] ⚠️ Bot detenido por señal
+[2025-03-26 10:32:25.227629] 🟢 Bot de noticias iniciado
+[2025-03-26 10:41:13.098539] 🟢 Bot de noticias iniciado
+[2025-03-26 11:05:19.247392] 🟢 Bot de noticias iniciado
+[2025-03-26 11:25:40.807883] 🟢 Bot de noticias iniciado
+[2025-03-26 11:51:07.792398] ✅ Enviada noticia: Valence : Une fonctionnaire condamnée pour corruption dans le scandale des permis de transport vers le Maroc
+[2025-03-26 11:55:09.462607] 🟢 Bot de noticias iniciado
+[2025-03-26 11:55:10.042580] ⚠️ Bot detenido por señal
+[2025-03-26 11:55:14.352339] 🟢 Bot de noticias iniciado
+[2025-03-26 12:13:31.046184] 🟢 Bot de noticias iniciado
+[2025-03-26 12:13:36.997458] ✅ Enviada noticia: إجهاض محاولة لتهريب المخدرات بميناء طنجة المدينة وحجز 34 كيلوغراماً من الشيرا
+[2025-03-26 13:06:25.679449] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb056527390>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-26 13:06:26.071739] ✅ Enviada noticia: إحباط تهريب 34 كلغ من الشيرا في ميناء طنجة وتوقيف مغربي
+[2025-03-26 13:17:56.316477] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb054a3fb10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-26 13:17:56.743498] ✅ Enviada noticia: المغرب يسلم تاجر مخدرات للجزائر
+[2025-03-26 13:28:35.551103] 🟢 Bot de noticias iniciado
+[2025-03-26 13:31:09.491722] 🟢 Bot de noticias iniciado
+[2025-03-26 13:39:17.176671] 🟢 Bot de noticias iniciado
+[2025-03-26 13:41:36.573327] ✅ Enviada noticia: Des travailleurs marocains exploités dans la région de Bordeaux
+[2025-03-26 13:56:17.618836] ❗ Latido perdido. Forzando salida.
+[2025-03-26 13:58:02.454697] 🟢 Bot de noticias iniciado
+[2025-03-26 14:32:39.846828] 🟢 Bot de noticias iniciado
+[2025-03-26 14:47:54.821198] 🟢 Bot de noticias iniciado
+[2025-03-26 15:08:34.266782] 🟢 Bot de noticias iniciado
+[2025-03-26 15:19:23.673567] 🟢 Bot de noticias iniciado
+[2025-03-26 15:19:46.173532] 🟢 Bot de noticias iniciado
+[2025-03-26 15:19:46.609416] 🟢 Bot de noticias iniciado
+[2025-03-26 15:22:07.239280] 🟢 Bot de noticias iniciado
+[2025-03-26 15:22:07.601918] 🟢 Bot de noticias iniciado
+[2025-03-26 15:22:30.486418] 🟢 Bot de noticias iniciado
+[2025-03-26 15:22:30.839564] 🟢 Bot de noticias iniciado
+[2025-03-26 15:22:46.510441] ❗ Latido perdido. Forzando salida.
+[2025-03-26 15:24:51.640662] ⚠️ Bot detenido por señal
+[2025-03-26 15:24:56.638056] 🟢 Bot de noticias iniciado
+[2025-03-26 15:41:19.431359] 🟢 Bot de noticias iniciado
+[2025-03-26 15:41:41.800151] ⚠️ Bot detenido por señal
+[2025-03-26 15:41:42.162224] ⚠️ Bot desconectado (bloque finally)
+[2025-03-26 15:41:50.527832] 🟢 Bot de noticias iniciado
+[2025-03-26 15:41:50.880319] 🟢 Bot de noticias iniciado
+[2025-03-26 15:44:50.874804] ❗ Latido perdido. Forzando salida.
+[2025-03-26 15:47:04.087742] 🟢 Bot de noticias iniciado
+[2025-03-26 15:47:04.461420] 🟢 Bot de noticias iniciado
+[2025-03-26 16:18:34.434300] 🟢 Bot de noticias iniciado
+[2025-03-26 16:18:34.766370] 🟢 Bot de noticias iniciado
+[2025-03-26 16:21:34.829410] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:21:40.595442] 🟢 Bot de noticias iniciado
+[2025-03-26 16:21:41.043267] 🟢 Bot de noticias iniciado
+[2025-03-26 16:23:58.368172] 🟢 Bot de noticias iniciado
+[2025-03-26 16:23:58.368879] ⚠️ Puerto 8080 en uso. Cerrando instancia anterior.
+[2025-03-26 16:24:40.928956] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:25:24.904913] 🟢 Bot de noticias iniciado
+[2025-03-26 16:25:25.247231] ⚠️ Puerto 8080 en uso. Cerrando instancia anterior.
+[2025-03-26 16:25:25.247587] 🟢 Bot de noticias iniciado
+[2025-03-26 16:25:46.219015] 🟢 Bot de noticias iniciado
+[2025-03-26 16:25:46.643114] 🟢 Bot de noticias iniciado
+[2025-03-26 16:28:46.616197] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:36:44.802962] 🟢 Bot de noticias iniciado
+[2025-03-26 16:36:45.202609] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:37:45.590180] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:38:45.934445] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:39:46.335544] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:40:46.671115] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:41:47.037266] ⚠️ Error en feed Ellipsis: 'ellipsis' object has no attribute 'encode'
+[2025-03-26 16:41:53.818435] ⚠️ Bot detenido por señal
+[2025-03-26 16:41:58.857753] 🟢 Bot de noticias iniciado
+[2025-03-26 16:41:59.321500] 🟢 Bot de noticias iniciado
+[2025-03-26 16:42:03.990008] ✅ Enviada noticia: القنيطرة.. فيديو متداول يقود لتوقيف شخصين أحدهما لص بالنشل
+[2025-03-26 16:44:59.194148] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:45:05.054870] 🟢 Bot de noticias iniciado
+[2025-03-26 16:45:05.410214] 🟢 Bot de noticias iniciado
+[2025-03-26 16:48:05.395842] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:48:09.587985] 🟢 Bot de noticias iniciado
+[2025-03-26 16:48:09.939529] 🟢 Bot de noticias iniciado
+[2025-03-26 16:51:09.967703] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:51:33.341509] 🟢 Bot de noticias iniciado
+[2025-03-26 16:51:33.678464] ⚠️ Another instance is running. Exiting.
+[2025-03-26 16:54:33.709646] ❗ Latido perdido. Forzando salida.
+[2025-03-26 16:54:55.264061] 🟢 Bot de noticias iniciado
+[2025-03-26 16:54:55.703467] ⚠️ Another instance is running. Exiting.
+[2025-03-26 17:07:17.790543] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:10:57.671488] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:14:16.451956] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:15:50.226697] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:18:58.830196] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:49:07.326281] ❗ Latido perdido. Forzando salida.
+[2025-03-26 17:52:29.520727] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:13:48.287306] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:16:39.887864] 🟢 Bot de noticias iniciado
+[2025-03-26 18:16:40.278603] 🟢 Bot de noticias iniciado
+[2025-03-26 18:16:45.801791] ✅ Enviada noticia: الحرس المدني والدرك الملكي ينفذان دوريات مشتركة لمكافحة “الحريك”
+[2025-03-26 18:16:46.230883] ✅ Enviada noticia: فيديو متداول يقود لتوقيف شخصين أحدهما لص بالنشل بالقنيطرة
+[2025-03-26 18:16:47.482509] ✅ Enviada noticia: البحرية الإسبانية تعترض قاربًا يُستخدم في تهريب الحشيش من شمال المغرب
+[2025-03-26 18:17:39.716231] ❌ Intento 1/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2565d90150>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 18:17:56.837182] ❌ Intento 2/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2565d99c90>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 18:18:13.855140] ❌ Intento 3/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2564290690>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 18:18:16.224530] ✅ Enviada noticia: تحقيق استقصائي: « مافيا » التهريب بين لبنان وسوريا: سقوط نظام الأسد لم يُغلق المعابر
+[2025-03-26 18:19:40.354651] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:20:32.565013] 🟢 Bot de noticias iniciado
+[2025-03-26 18:20:32.938034] 🟢 Bot de noticias iniciado
+[2025-03-26 18:23:32.972320] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:23:55.110257] 🟢 Bot de noticias iniciado
+[2025-03-26 18:23:55.508672] 🟢 Bot de noticias iniciado
+[2025-03-26 18:26:55.495970] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:28:15.031032] 🟢 Bot de noticias iniciado
+[2025-03-26 18:28:15.476309] 🟢 Bot de noticias iniciado
+[2025-03-26 18:31:15.387301] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:33:19.986640] 🟢 Bot de noticias iniciado
+[2025-03-26 18:33:20.411635] 🟢 Bot de noticias iniciado
+[2025-03-26 18:36:20.491174] ❗ Latido perdido. Forzando salida.
+[2025-03-26 18:40:12.630190] 🟢 Bot de noticias iniciado
+[2025-03-26 18:40:13.046723] 🟢 Bot de noticias iniciado
+[2025-03-26 18:43:12.970726] ❗ Latido perdido. Forzando salida.
+[2025-03-26 19:18:59.054780] 🟢 Bot de noticias iniciado
+[2025-03-26 19:18:59.554205] 🟢 Bot de noticias iniciado
+[2025-03-26 19:19:19.425233] ❌ Intento 1/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f10480f2bd0>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 19:19:36.443300] ❌ Intento 2/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1049b0e390>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 19:19:53.461174] ❌ Intento 3/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f10480fef90>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 19:19:55.856537] ✅ Enviada noticia: تزوير تصاريح نقل البضائع إلى المغرب يطيح بموظفة في فالنسيا
+[2025-03-26 19:21:59.403680] ❗ Latido perdido. Forzando salida.
+[2025-03-26 19:22:18.859667] 🟢 Bot de noticias iniciado
+[2025-03-26 19:22:19.211054] 🟢 Bot de noticias iniciado
+[2025-03-26 19:25:19.246268] ❗ Latido perdido. Forzando salida.
+[2025-03-26 19:29:01.243498] 🟢 Bot de noticias iniciado
+[2025-03-26 19:29:01.700025] 🟢 Bot de noticias iniciado
+[2025-03-26 19:32:01.608924] ❗ Latido perdido. Forzando salida.
+[2025-03-26 19:36:38.047154] 🟢 Bot de noticias iniciado
+[2025-03-26 19:36:38.516292] 🟢 Bot de noticias iniciado
+[2025-03-26 19:39:38.427039] ❗ Latido perdido. Forzando salida.
+[2025-03-26 19:46:20.183817] 🟢 Bot de noticias iniciado
+[2025-03-26 19:46:20.554596] 🟢 Bot de noticias iniciado
+[2025-03-26 19:49:20.544752] ❗ Latido perdido. Forzando salida.
+[2025-03-26 20:40:26.986595] 🟢 Bot de noticias iniciado
+[2025-03-26 20:40:27.364082] 🟢 Bot de noticias iniciado
+[2025-03-26 20:41:37.061439] ❌ Intento 1/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0de8cadd0>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 20:41:54.078823] ❌ Intento 2/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0e0213890>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 20:42:11.201185] ❌ Intento 3/3 fallido: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0de8c8c90>, 'Connection to libretranslate.de timed out. (connect timeout=15)'))
+[2025-03-26 20:42:13.606180] ✅ Enviada noticia: شبكة تهريب تستغل “البال” لإدخال ملابس جديدة دون رسوم جمركية
+[2025-03-26 20:43:27.427106] ❗ Latido perdido. Forzando salida.
+[2025-03-26 21:36:46.831806] 🟢 Bot de noticias iniciado
+[2025-03-26 21:36:51.581695] ✅ Enviada noticia: Les États-Unis mettent en garde les Marocains
+[2025-03-26 22:10:11.765293] ⚠️ Bot detenido por señal
+[2025-03-26 22:10:12.172813] ⚠️ Bot desconectado (bloque finally)
+[2025-03-26 22:17:26.747154] 🟢 Bot de noticias iniciado
+[2025-03-26 22:23:00.091896] ⚠️ Bot detenido por señal
+[2025-03-26 22:23:00.453710] ⚠️ Bot desconectado (bloque finally)
+[2025-03-26 22:23:04.838683] 🟢 Bot de noticias iniciado
+[2025-03-26 22:23:34.191014] ✅ Enviada noticia: تحسبا لعيد الفطر.. مخطط أمني استباقي قبالة سبتة المحتلة لمواجهة أنشطة شبكات الهجرة
+[2025-03-26 22:23:34.558493] ✅ Enviada noticia: اعتراض قارب للهجرة السرية بقرية أركمان كان على متنه عشرات المهاجرين
+[2025-03-26 22:23:34.927542] ✅ Enviada noticia: اعتقال "نصاب" تسبب في غرامات باهظة لسكان مليلية
+[2025-03-26 23:04:33.500059] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f27d266f250>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-26 23:04:33.854947] ✅ Enviada noticia: عوامل تكبح القطاع الخاص بالمغرب.. والأولوية لإصلاحات مناخ الأعمال
+[2025-03-26 23:08:28.988639] ✅ Enviada noticia: الأمن يطيح بمروج مخدرات خطير قرب مؤسسات تعليمية بالعروي
+[2025-03-26 23:27:29.075966] 🟢 Bot de noticias iniciado
+[2025-03-26 23:27:43.585402] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6bc4796b50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-26 23:27:43.924846] ✅ Enviada noticia: إحباط محاولة للهجرة وتوقيف منظمين بالناظور
+[2025-03-27 00:05:08.136455] 🟢 Bot de noticias iniciado
+[2025-03-27 05:01:33.365535] 🟢 Bot de noticias iniciado
+[2025-03-27 05:01:46.284142] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f51822feb50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 05:01:46.625205] ✅ Enviada noticia: أمواج تلفظ رزم مخدرات بالمنصورية
+[2025-03-27 05:02:22.305915] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f518222e750>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 05:02:22.655217] ✅ Enviada noticia: أمن مراكش يحد من نشاط مروجين للمخدرات
+[2025-03-27 05:35:33.706534] ❗ Latido perdido. Forzando salida.
+[2025-03-27 09:03:45.855882] 🟢 Bot de noticias iniciado
+[2025-03-27 09:29:47.809611] ⚠️ Bot detenido por señal
+[2025-03-27 09:29:48.190686] ⚠️ Bot desconectado (bloque finally)
+[2025-03-27 09:29:52.341025] 🟢 Bot de noticias iniciado
+[2025-03-27 10:01:18.659857] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f82aa7c0610>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 10:01:19.065669] ✅ Enviada noticia: الأمواج تلفظ أطنانا من الحشيش بضواحي المحمدية
+[2025-03-27 10:14:54.368712] 🟢 Bot de noticias iniciado
+[2025-03-27 10:29:16.459363] 🟢 Bot de noticias iniciado
+[2025-03-27 10:30:01.332335] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0081b7a50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 10:30:01.691576] ✅ Enviada noticia: فرقة مكافحة العصابات تضرب بقوة وتطيح بتجار ومهربي مخدرات بمراكش
+[2025-03-27 10:33:02.491772] 🟢 Bot de noticias iniciado
+[2025-03-27 11:58:04.391795] 🟢 Bot de noticias iniciado
+[2025-03-27 12:25:39.041143] 🟢 Bot de noticias iniciado
+[2025-03-27 12:49:49.096457] ✅ Enviada noticia: الجنرال حرمو يُفعّل جهاز استخبارات الدرك لكبح الهجرة السرية بسواحل الجنوب
+[2025-03-27 13:36:56.416260] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe530d6ead0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 13:36:56.826483] ✅ Enviada noticia: صراع عنيف بين شبكتين لتهريب المخدرات يستنفر الدرك الملكي بين بليونش والقصر الصغير
+[2025-03-27 13:41:28.797334] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe532059f90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 13:41:29.228813] ✅ Enviada noticia: دركي متورط في شبكة مخدرات يُنفّذ هروبا هوليوديا من داخل المحكمة
+[2025-03-27 13:55:39.455005] ❗ Latido perdido. Forzando salida.
+[2025-03-27 14:02:02.805058] 🟢 Bot de noticias iniciado
+[2025-03-27 14:03:01.045329] ✅ Enviada noticia: معلومات أمنية تقود إلى حجز أطنان الحشيش بالقنيطرة
+[2025-03-27 14:03:12.548256] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f37fd7eff90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 14:03:12.918291] ✅ Enviada noticia: ضبط طنين من الحشيش على متن شاحنة قرب القنيطرة
+[2025-03-27 14:05:43.416131] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f37fc4d6750>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 14:05:43.874410] ✅ Enviada noticia: إجهاض عملية تهريب كمية هامة من مخدر الشيرا
+[2025-03-27 14:10:36.758217] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f37fc4db250>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 14:10:37.159078] ✅ Enviada noticia: الأمن المغربي يوجّه ضربة قوية لشبكات التهريب ويحبط تهريب حوالي طنين من الشيرا
+[2025-03-27 14:15:50.051206] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f37fc5d0ed0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 14:15:50.438042] ✅ Enviada noticia: إجهاض عملية تهريب 2 طن من الحشيش بالقنيطرة
+[2025-03-27 14:28:03.214819] ❗ Latido perdido. Forzando salida.
+[2025-03-27 14:30:42.128210] 🟢 Bot de noticias iniciado
+[2025-03-27 14:37:14.037589] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f03b3e21dd0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 14:37:14.409131] ✅ Enviada noticia: بطريقة هوليوودية.. هروب دركي متورط في شبكة مخدرات من داخل محكمة الاستئناف بالجديدة
+[2025-03-27 14:41:42.468908] ❗ Latido perdido. Forzando salida.
+[2025-03-27 14:49:07.073800] 🟢 Bot de noticias iniciado
+[2025-03-27 14:49:08.947859] ⚠️ Bot detenido por señal
+[2025-03-27 14:49:09.345453] ⚠️ Bot desconectado (bloque finally)
+[2025-03-27 15:00:59.968492] 🟢 Bot de noticias iniciado
+[2025-03-27 15:19:00.311844] ❗ Latido perdido. Forzando salida.
+[2025-03-27 15:21:13.697295] 🟢 Bot de noticias iniciado
+[2025-03-27 15:22:17.753437] ✅ Enviada noticia: إحباط عملية لتهريب حوالي طنين من مخدر الشيرا
+[2025-03-27 15:26:36.538060] 🟢 Bot de noticias iniciado
+[2025-03-27 16:45:57.594691] 🟢 Bot de noticias iniciado
+[2025-03-27 16:45:58.452401] 🟢 Bot de noticias iniciado
+[2025-03-27 16:46:01.820394] ✅ Enviada noticia: Plus de cinq ans après, où en est l'enquête sur la disparition de Naima Jillal ?
+[2025-03-27 16:46:03.433971] ✅ Enviada noticia: Plus de cinq ans après, où en est l'enquête sur la disparition de Naima Jillal ?
+[2025-03-27 16:46:04.140135] ✅ Enviada noticia: أمن القنيطرة يحبط تهريب حوالي طنين من الشيرا
+[2025-03-27 16:46:04.794508] ✅ Enviada noticia: أمن القنيطرة يحبط تهريب حوالي طنين من الشيرا
+[2025-03-27 17:06:57.961358] ❗ Latido perdido. Forzando salida.
+[2025-03-27 17:16:58.807671] ❗ Latido perdido. Forzando salida.
+[2025-03-27 17:17:09.346241] 🟢 Bot de noticias iniciado
+[2025-03-27 17:31:30.087777] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f069e3c4a90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 17:31:30.533184] ✅ Enviada noticia: الحبس النافذ لمسؤولة إسبانية بسبب تزوير تصاريح نقل بضائع إلى المغرب
+[2025-03-27 17:43:56.415760] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f069f63a250>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 17:43:56.789182] ✅ Enviada noticia: معلومات استخباراتية تقود إلى إجهاض عملية تهريب مخدرات بسيدي علال البحراوي
+[2025-03-27 19:07:33.200183] 🟢 Bot de noticias iniciado
+[2025-03-27 19:35:21.865350] 🟢 Bot de noticias iniciado
+[2025-03-27 19:55:21.488372] 🟢 Bot de noticias iniciado
+[2025-03-27 19:56:12.654136] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5dd2198a10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 19:56:13.047617] ✅ Enviada noticia: تدخل للدرك يحبط محاولة تهريب مخدرات بمدينة ميسور
+[2025-03-27 20:05:35.005258] 🟢 Bot de noticias iniciado
+[2025-03-27 20:14:58.100700] 🟢 Bot de noticias iniciado
+[2025-03-27 20:41:37.036276] 🟢 Bot de noticias iniciado
+[2025-03-27 20:41:49.696332] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fce1d327d10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-27 20:41:50.074920] ✅ Enviada noticia: شرطة القنيطرة تعترض شحنة شيرا
+[2025-03-27 21:05:39.020425] 🟢 Bot de noticias iniciado
+[2025-03-27 21:09:19.548296] 🟢 Bot de noticias iniciado
+[2025-03-27 21:14:36.441194] ❗ Latido perdido. Forzando salida.
+[2025-03-27 21:15:00.963577] 🟢 Bot de noticias iniciado
+[2025-03-27 21:15:32.077993] 🟢 Bot de noticias iniciado
+[2025-03-27 21:29:52.114855] 🟢 Bot de noticias iniciado
+[2025-03-27 21:44:56.422599] 🟢 Bot de noticias iniciado
+[2025-03-27 21:49:30.167044] 🟢 Bot de noticias iniciado
+[2025-03-27 21:59:08.363511] 🟢 Bot de noticias iniciado
+[2025-03-27 22:05:01.988273] 🟢 Bot de noticias iniciado
+[2025-03-27 22:05:04.354430] ⚠️ Bot detenido por señal
+[2025-03-27 22:05:04.717469] ⚠️ Bot desconectado (bloque finally)
+[2025-03-27 22:05:09.214945] 🟢 Bot de noticias iniciado
+[2025-03-27 22:12:52.483816] 🟢 Bot de noticias iniciado
+[2025-03-27 22:22:09.545637] ⚠️ Bot detenido por señal
+[2025-03-27 22:22:09.919349] ⚠️ Bot desconectado (bloque finally)
+[2025-03-27 22:22:27.878571] 🟢 Bot de noticias iniciado
+[2025-03-27 22:23:33.857495] ⚠️ Bot detenido por señal
+[2025-03-27 22:23:34.219769] ⚠️ Bot desconectado (bloque finally)
+[2025-03-27 22:23:49.765396] 🟢 Bot de noticias iniciado
+[2025-03-27 22:51:50.114331] ❗ Latido perdido. Forzando salida.
+[2025-03-27 22:52:29.036469] 🟢 Bot de noticias iniciado
+[2025-03-27 22:56:29.445986] ❗ Latido perdido. Forzando salida.
+[2025-03-27 22:57:17.709768] 🟢 Bot de noticias iniciado
+[2025-03-27 23:01:18.099799] ❗ Latido perdido. Forzando salida.
+[2025-03-27 23:07:27.149444] 🟢 Bot de noticias iniciado
+[2025-03-27 23:52:14.776574] 🟢 Bot de noticias iniciado
+[2025-03-27 23:56:15.285346] ❗ Latido perdido. Forzando salida.
+[2025-03-28 00:19:21.309406] 🟢 Bot de noticias iniciado
+[2025-03-28 00:19:56.403289] ✅ Enviada noticia: إسبانيا.. إدانة موظفة متورطة في تزوير تصاريح نقل البضائع إلى المغرب
+[2025-03-28 00:51:10.593257] 🟢 Bot de noticias iniciado
+[2025-03-28 01:01:05.837407] 🟢 Bot de noticias iniciado
+[2025-03-28 01:05:41.689769] 🟢 Bot de noticias iniciado
+[2025-03-28 01:21:11.683050] ✅ Enviada noticia: Algérie : Arrestation de Marocains après les accusations de Tebboune sur le trafic de drogue
+[2025-03-28 01:31:13.592341] 🟢 Bot de noticias iniciado
+[2025-03-28 01:57:49.258688] ✅ Enviada noticia: سفارة المملكة المغربية ببلجيكا تقيم حفل إفطار على شرف الطلبة المغاربة
+[2025-03-28 07:57:00.699931] 🟢 Bot de noticias iniciado
+[2025-03-28 08:55:39.375203] 🟢 Bot de noticias iniciado
+[2025-03-28 09:10:51.669418] 🟢 Bot de noticias iniciado
+[2025-03-28 09:16:31.044042] 🟢 Bot de noticias iniciado
+[2025-03-28 09:48:01.218557] 🟢 Bot de noticias iniciado
+[2025-03-28 11:18:35.005474] 🟢 Bot de noticias iniciado
+[2025-03-28 12:19:50.557682] 🟢 Bot de noticias iniciado
+[2025-03-28 12:19:54.700390] ✅ Enviada noticia: Quatre Marocains arrêtés à la frontière algérienne
+[2025-03-28 12:34:36.499359] 🟢 Bot de noticias iniciado
+[2025-03-28 12:51:36.838648] ❗ Latido perdido. Forzando salida.
+[2025-03-28 12:54:37.050216] 🟢 Bot de noticias iniciado
+[2025-03-28 13:14:37.404918] ❗ Latido perdido. Forzando salida.
+[2025-03-28 13:19:26.475756] 🟢 Bot de noticias iniciado
+[2025-03-28 14:01:09.414270] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efd68aecc90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-28 14:01:09.941928] ✅ Enviada noticia: الدرك الملكي والحرس المدني الإسباني يقومان بدوريات مشتركة لمراقبة الهجرة غير النظامية
+[2025-03-28 14:16:06.048074] 🟢 Bot de noticias iniciado
+[2025-03-28 14:53:37.163004] 🟢 Bot de noticias iniciado
+[2025-03-28 16:50:43.709245] 🟢 Bot de noticias iniciado
+[2025-03-28 16:50:44.481759] ⚠️ Bot detenido por señal
+[2025-03-28 17:35:23.772229] 🟢 Bot de noticias iniciado
+[2025-03-28 17:44:24.214229] ❗ Latido perdido. Forzando salida.
+[2025-03-28 17:44:42.729032] 🟢 Bot de noticias iniciado
+[2025-03-28 17:48:43.128293] ❗ Latido perdido. Forzando salida.
+[2025-03-28 17:59:30.167628] 🟢 Bot de noticias iniciado
+[2025-03-28 17:59:30.258097] 🟢 Bot de noticias iniciado
+[2025-03-28 18:17:47.656954] 🟢 Bot de noticias iniciado
+[2025-03-28 18:19:39.057893] ⚠️ Error en feed https://mobile.telquel.ma/feed: Remote end closed connection without response
+[2025-03-28 18:21:22.434039] ⚠️ Error en feed https://aujourdhui.ma/feed: IncompleteRead(8192 bytes read)
+[2025-03-28 18:53:21.336179] 🟢 Bot de noticias iniciado
+[2025-03-28 18:57:21.674026] ❗ Latido perdido. Forzando salida.
+[2025-03-28 18:57:32.105949] 🟢 Bot de noticias iniciado
+[2025-03-28 19:11:31.774352] 🟢 Bot de noticias iniciado
+[2025-03-28 19:23:45.394002] 🟢 Bot de noticias iniciado
+[2025-03-28 19:33:36.876863] 🟢 Bot de noticias iniciado
+[2025-03-28 19:43:52.559550] 🟢 Bot de noticias iniciado
+[2025-03-28 19:47:52.909076] ❗ Latido perdido. Forzando salida.
+[2025-03-28 20:12:42.220991] 🟢 Bot de noticias iniciado
+[2025-03-28 20:32:37.638731] 🟢 Bot de noticias iniciado
+[2025-03-28 20:33:08.313912] ✅ Enviada noticia: مقترح قانون يقضي بترحيل القاصرين المغاربة من إسبانيا
+[2025-03-28 20:46:51.974678] 🟢 Bot de noticias iniciado
+[2025-03-28 21:30:13.247361] 🟢 Bot de noticias iniciado
+[2025-03-28 22:16:48.891705] 🟢 Bot de noticias iniciado
+[2025-03-28 22:17:23.219960] ✅ Enviada noticia: عناصر البحرية الملكية تعترض زورقا يحمل مهاجرين سريين بالدريوش
+[2025-03-28 22:35:38.883403] ✅ Enviada noticia: التحريض على الهجرة السرية على مواقع التواصل يقود لاعتقال شخص بتطوان
+[2025-03-28 22:45:55.112367] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56f580c650>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-28 22:45:55.480534] ✅ Enviada noticia: عاجل.. العثور على الطفلين المفقودين بعد محاولة اختطاف فاشلة بمراكش
+[2025-03-28 22:48:33.665093] ✅ Enviada noticia: توقيف شاب لنشره محتويات تُحرّض على الهجرة السرية واقتحام السياج الحدودي بين الفنيدق وسبتة
+[2025-03-28 23:15:30.992879] ✅ Enviada noticia: إفشال محاولة لتنفيذ عملية للهجرة السرية بإمزورن
+[2025-03-29 07:46:28.118134] 🟢 Bot de noticias iniciado
+[2025-03-29 07:46:30.312729] 🟢 Bot de noticias iniciado
+[2025-03-29 08:04:38.917209] 🟢 Bot de noticias iniciado
+[2025-03-29 08:37:13.173281] 🟢 Bot de noticias iniciado
+[2025-03-29 08:47:09.308648] 🟢 Bot de noticias iniciado
+[2025-03-29 10:35:23.784294] 🟢 Bot de noticias iniciado
+[2025-03-29 10:35:36.587032] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff676ec3f50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-29 10:35:36.938147] ✅ Enviada noticia: بارون مخدرات يطيح بتجار "الميكا"
+[2025-03-29 10:36:03.578290] ✅ Enviada noticia: وفاة مهاجر بعد إلقائه في البحر قرب سواحل ألميريا والتحقيقات تكشف تفاصيل الحادث
+[2025-03-29 12:17:00.863336] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6765c4610>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-29 12:17:01.273172] ✅ Enviada noticia: السلطات الإسبانية توقف أعضاء منظمة متخصصة في تهريب الحشيش من المغرب
+[2025-03-29 13:08:24.220125] ❗ Latido perdido. Forzando salida.
+[2025-03-29 13:15:36.119369] 🟢 Bot de noticias iniciado
+[2025-03-29 13:34:12.370476] ✅ Enviada noticia: قضية الطنجاوي كريم البقالي.. تخريب يستهدف سيارة قاضية إسبانية يُشعل الجدل
+[2025-03-29 14:06:36.524664] ❗ Latido perdido. Forzando salida.
+[2025-03-29 14:08:58.976713] 🟢 Bot de noticias iniciado
+[2025-03-29 14:30:45.741027] 🟢 Bot de noticias iniciado
+[2025-03-29 15:07:46.101928] ❗ Latido perdido. Forzando salida.
+[2025-03-29 15:20:19.585111] 🟢 Bot de noticias iniciado
+[2025-03-29 15:21:10.195663] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4ced510650>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-29 15:21:10.569222] ✅ Enviada noticia: توقيف بارون مخدرات بالسوالم الطريفية يسفر عن حجز 1.5طن من المخدرات ضواحي الجديدة
+[2025-03-29 15:46:56.383548] 🟢 Bot de noticias iniciado
+[2025-03-29 15:58:59.609342] 🟢 Bot de noticias iniciado
+[2025-03-29 16:06:59.961710] ❗ Latido perdido. Forzando salida.
+[2025-03-29 16:09:25.266407] 🟢 Bot de noticias iniciado
+[2025-03-29 16:13:25.653847] ❗ Latido perdido. Forzando salida.
+[2025-03-29 16:29:57.909426] 🟢 Bot de noticias iniciado
+[2025-03-29 16:30:02.528908] ✅ Enviada noticia: بارون مخدرات مبحوث عنه وطنياً بموجب 38 مذكرة في قبضة أمن القنيطرة
+[2025-03-29 16:43:09.996089] 🟢 Bot de noticias iniciado
+[2025-03-29 18:38:10.376942] ❗ Latido perdido. Forzando salida.
+[2025-03-29 18:52:13.502544] 🟢 Bot de noticias iniciado
+[2025-03-29 20:44:33.490196] 🟢 Bot de noticias iniciado
+[2025-03-29 20:44:46.656553] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd4da084790>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-29 20:44:47.043483] ✅ Enviada noticia: إحباط تهريب أطنان الشيرا بكلميم‬
+[2025-03-29 20:51:19.710919] 🟢 Bot de noticias iniciado
+[2025-03-29 20:53:01.463318] ⚠️ Error en feed https://mobile.telquel.ma/feed: IncompleteRead(5499 bytes read)
+[2025-03-29 21:06:04.339932] 🟢 Bot de noticias iniciado
+[2025-03-29 21:27:04.169378] 🟢 Bot de noticias iniciado
+[2025-03-29 21:33:05.656216] 🟢 Bot de noticias iniciado
+[2025-03-29 21:33:09.747639] ✅ Enviada noticia: Un gros baron de la drogue espagnol en cavale au Maroc ?
+[2025-03-29 21:38:45.687596] 🟢 Bot de noticias iniciado
+[2025-03-29 21:52:26.104362] 🟢 Bot de noticias iniciado
+[2025-03-29 21:52:57.902149] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9efb3b0f10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-29 21:52:58.262228] ✅ Enviada noticia: تسجيل عشرات المخالفات وحجز مركبات في حملة واسعة بالمنطقة الأمنية الخامسة بمراكش
+[2025-03-29 21:59:59.999442] 🟢 Bot de noticias iniciado
+[2025-03-29 22:00:05.050932] 🟢 Bot de noticias iniciado
+[2025-03-29 22:29:35.571254] 🟢 Bot de noticias iniciado
+[2025-03-29 23:01:20.344922] ⚠️ Error en feed https://kech24.com/feed: IncompleteRead(30210 bytes read)
+[2025-03-29 23:02:51.919322] ✅ Enviada noticia: الإطاحة بشبكة متخصصة في تهريب مهاجرين مغاربة بين إسبانيا وفرنسا
+[2025-03-29 23:56:39.653510] 🟢 Bot de noticias iniciado
+[2025-03-30 00:47:29.099555] 🟢 Bot de noticias iniciado
+[2025-03-30 05:04:05.108424] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa7907c9450>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-30 05:04:05.470847] ✅ Enviada noticia: أوقديم: شواهد طبية تؤدي إلى عقوبات غير عادلة في القضايا الجنائية
+[2025-03-30 07:02:14.228578] ✅ Enviada noticia: La justice espagnole juge illégale l'expulsion d'un Algérien au Maroc
+[2025-03-30 09:05:29.569589] ❗ Latido perdido. Forzando salida.
+[2025-03-30 09:05:59.707776] 🟢 Bot de noticias iniciado
+[2025-03-30 09:57:10.815945] 🟢 Bot de noticias iniciado
+[2025-03-30 10:07:36.254614] 🟢 Bot de noticias iniciado
+[2025-03-30 12:16:58.285609] 🟢 Bot de noticias iniciado
+[2025-03-30 12:17:37.341038] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2f1687cb10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-30 12:17:37.698760] ✅ Enviada noticia: حجز  ثلاثة أطنان من مخدر الشيرا بكلميم
+[2025-03-30 13:44:19.233517] 🟢 Bot de noticias iniciado
+[2025-03-30 16:22:53.970512] 🟢 Bot de noticias iniciado
+[2025-03-30 17:01:31.582374] 🟢 Bot de noticias iniciado
+[2025-03-30 17:09:29.741388] 🟢 Bot de noticias iniciado
+[2025-03-30 18:15:24.101919] 🟢 Bot de noticias iniciado
+[2025-03-30 18:18:42.262337] ⚠️ Bot detenido por señal
+[2025-03-30 18:18:42.612050] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 18:18:46.625160] 🟢 Bot de noticias iniciado
+[2025-03-30 20:02:48.866204] 🟢 Bot de noticias iniciado
+[2025-03-30 20:31:45.287855] 🟢 Bot de noticias iniciado
+[2025-03-30 20:52:23.818656] ⚠️ Bot detenido por señal
+[2025-03-30 20:52:24.175136] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 20:53:27.404507] 🟢 Bot de noticias iniciado
+[2025-03-30 20:57:43.340105] ⚠️ Bot detenido por señal
+[2025-03-30 20:57:43.682103] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 20:58:51.977241] 🟢 Bot de noticias iniciado
+[2025-03-30 23:11:30.198271] ⚠️ Bot detenido por señal
+[2025-03-30 23:11:30.622172] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 23:11:35.558242] 🟢 Bot de noticias iniciado
+[2025-03-30 23:11:58.943972] ✅ Enviada noticia: Al Hoceima : Mise en échec d’une tentative d’immigration illégale, deux embarcations saisies
+[2025-03-30 23:20:10.971438] ⚠️ Bot detenido por señal
+[2025-03-30 23:20:11.322658] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 23:20:15.657895] 🟢 Bot de noticias iniciado
+[2025-03-30 23:31:54.014240] ⚠️ Bot detenido por señal
+[2025-03-30 23:31:54.343470] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 23:31:58.895484] 🟢 Bot de noticias iniciado
+[2025-03-30 23:38:20.427901] ⚠️ Bot detenido por señal
+[2025-03-30 23:38:20.760763] ⚠️ Bot desconectado (bloque finally)
+[2025-03-30 23:38:21.255839] ⚠️ Bot detenido por señal
+[2025-03-30 23:38:23.630296] 🟢 Bot de noticias iniciado
+[2025-03-30 23:43:50.316301] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd89e9107d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-30 23:43:50.704271] ✅ Enviada noticia: قتيل في حادث قرب عين أسردون
+[2025-03-31 00:05:18.271348] ✅ Enviada noticia: الدرك يطيح بشبكة متخصصة في سرقة الدراجات النارية بإمزورن
+[2025-03-31 00:35:26.194745] 🟢 Bot de noticias iniciado
+[2025-03-31 00:35:30.546271] ✅ Enviada noticia: حادثة سير مميتة بالمدار السياحي لعين أسردون
+[2025-03-31 09:02:25.387271] 🟢 Bot de noticias iniciado
+[2025-03-31 09:03:06.494539] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f43a84a85d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-31 09:03:06.865558] ✅ Enviada noticia: الأمن الاسباني يطيح بمتزعمي عمليات تهريب للحشيش من المغرب نحو إسبانيا
+[2025-03-31 10:02:40.460588] 🟢 Bot de noticias iniciado
+[2025-03-31 10:03:19.215253] ✅ Enviada noticia: الحرس المدني الإسباني يفكك شبكة لتهريب الحشيش من المغرب عبر نهر الوادي الكبير ويعتقل 23 شخصًا
+[2025-03-31 10:44:22.174620] 🟢 Bot de noticias iniciado
+[2025-03-31 11:21:11.895921] 🟢 Bot de noticias iniciado
+[2025-03-31 11:31:03.658397] 🟢 Bot de noticias iniciado
+[2025-03-31 12:25:12.106546] 🟢 Bot de noticias iniciado
+[2025-03-31 12:25:15.864251] ✅ Enviada noticia: Démantèlement d'un vaste réseau de trafic de drogue entre le Maroc et l'Espagne
+[2025-03-31 12:54:59.841050] 🟢 Bot de noticias iniciado
+[2025-03-31 13:54:43.236272] ✅ Enviada noticia: Drogue au Maghreb: un important réseau démantelé
+[2025-03-31 14:43:10.903411] ⚠️ Error en feed https://albayane.press.ma/feed: IncompleteRead(10 bytes read)
+[2025-03-31 15:37:43.154626] 🟢 Bot de noticias iniciado
+[2025-03-31 15:38:09.428285] ✅ Enviada noticia: مأساة يوم العيد.. حادث سير مروع ينهي حياة شاب في رأس الماء
+[2025-03-31 16:06:10.850171] 🟢 Bot de noticias iniciado
+[2025-03-31 16:25:41.400073] 🟢 Bot de noticias iniciado
+[2025-03-31 16:25:43.574741] ⚠️ Bot detenido por señal
+[2025-03-31 16:25:43.951102] ⚠️ Bot desconectado (bloque finally)
+[2025-03-31 16:29:23.136808] 🟢 Bot de noticias iniciado
+[2025-03-31 17:03:38.779449] 🟢 Bot de noticias iniciado
+[2025-03-31 17:49:24.645387] 🟢 Bot de noticias iniciado
+[2025-03-31 17:51:47.074930] ⚠️ Bot detenido por señal
+[2025-03-31 17:51:47.454056] ⚠️ Bot desconectado (bloque finally)
+[2025-03-31 17:51:51.666150] 🟢 Bot de noticias iniciado
+[2025-03-31 17:56:37.224254] ✅ Enviada noticia: حادث خطير في طنجة يوم العيد.. إصابة شابين في اصطدام دراجة نارية بسيارة مركونة
+[2025-03-31 18:20:38.359660] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8f727c0b90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-31 18:20:38.728449] ✅ Enviada noticia: تعزيزات أمنية مشددة ليلة عيد الفطر تحبط محاولات الهجرة غير النظامية بمنطقة بليونش ومحيط مدينة الفنيدق
+[2025-03-31 18:32:54.422800] 🟢 Bot de noticias iniciado
+[2025-03-31 19:39:51.042906] ✅ Enviada noticia: تعزيزات مشددة ليلة عيد الفطر تحبط محاولات للهجرة السرية إلى سبتة المحتلة
+[2025-03-31 21:28:38.612315] ⚠️ Bot detenido por señal
+[2025-03-31 21:28:39.000075] ⚠️ Bot desconectado (bloque finally)
+[2025-03-31 21:28:43.277284] 🟢 Bot de noticias iniciado
+[2025-03-31 22:10:33.455161] 🟢 Bot de noticias iniciado
+[2025-03-31 22:53:54.638452] 🟢 Bot de noticias iniciado
+[2025-03-31 22:54:27.405856] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc22437f250>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-03-31 22:54:27.749354] ✅ Enviada noticia: تعزيزات مشددة تحبط محاولات للهجرة السرية عبر بليونش والفنيدق تزامنا مع العيد
+[2025-03-31 23:21:31.546342] 🟢 Bot de noticias iniciado
+[2025-04-01 03:34:14.314682] 🟢 Bot de noticias iniciado
+[2025-04-01 03:34:20.064846] ✅ Enviada noticia: طنجة.. دراجات “سانيا” تتسبب في عشرات الإصابات في أول أيام عيد الفطر
+[2025-04-01 07:46:34.925767] 🟢 Bot de noticias iniciado
+[2025-04-01 07:47:02.716805] ✅ Enviada noticia: السلطات المغربية تحبط تحضيرات لاقتحام سبتة المحتلة ليلة العيد
+[2025-04-01 09:12:22.101981] 🟢 Bot de noticias iniciado
+[2025-04-01 09:12:26.341670] ✅ Enviada noticia: Mariage d'une militante RN (76 ans) avec un sans-papiers : polémique en Saône-et-Loire
+[2025-04-01 09:40:42.601096] 🟢 Bot de noticias iniciado
+[2025-04-01 09:55:05.023009] 🟢 Bot de noticias iniciado
+[2025-04-01 10:12:13.266029] 🟢 Bot de noticias iniciado
+[2025-04-01 10:24:31.798766] 🟢 Bot de noticias iniciado
+[2025-04-01 10:44:05.014380] 🟢 Bot de noticias iniciado
+[2025-04-01 11:42:05.129322] 🟢 Bot de noticias iniciado
+[2025-04-01 11:48:54.297909] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f27be120850>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-01 11:48:54.650488] ✅ Enviada noticia: أقراص مخدرة قادمة من المغرب تطيح بأربعينية بالجزيرة الخضراء
+[2025-04-01 11:53:55.577198] ✅ Enviada noticia: اعتقال مغربي قادم من هولندا في ألمانيا وبحوزته كمية كبيرة من المخدرات
+[2025-04-01 12:32:25.626983] ✅ Enviada noticia: الاتحاد الأوروبي يصدر آلاف أوامر الطرد ضد المغاربة
+[2025-04-01 12:51:17.133594] 🟢 Bot de noticias iniciado
+[2025-04-01 13:22:31.101176] 🟢 Bot de noticias iniciado
+[2025-04-01 14:00:24.292150] 🟢 Bot de noticias iniciado
+[2025-04-01 14:25:38.313466] ⚠️ Bot detenido por señal
+[2025-04-01 14:25:38.646903] ⚠️ Bot desconectado (bloque finally)
+[2025-04-01 14:25:47.690297] 🟢 Bot de noticias iniciado
+[2025-04-01 14:35:46.069997] 🟢 Bot de noticias iniciado
+[2025-04-01 15:22:23.565713] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0042cc2010>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-01 15:22:23.940240] ✅ Enviada noticia: أمن مراكش يحبط تهريب كمية كبيرة من الحشيش عبر حافلة لنقل المسافرين
+[2025-04-01 16:58:45.232954] 🟢 Bot de noticias iniciado
+[2025-04-01 16:58:51.448845] ✅ Enviada noticia: الجزيرة الخضراء تدق ناقوس الخطر بسبب “القرقوبي” المهرب من شمال المغرب
+[2025-04-01 16:59:11.547404] ✅ Enviada noticia: وثائق هوية مسروقة ومخدرات قادمة من المغرب.. توقيف سيدة بإسبانيا
+[2025-04-01 17:27:25.679261] 🟢 Bot de noticias iniciado
+[2025-04-01 17:44:29.803671] ✅ Enviada noticia: Toxicomanie : de Tanger à Nador, le double drame de la rupture de méthadone
+[2025-04-01 18:12:25.814536] ❗ Latido perdido, pero no se forzó salida.
+[2025-04-01 19:50:45.678144] ❗ Latido perdido, pero no se forzó salida.
+[2025-04-01 19:51:46.285188] ❗ Latido perdido, pero no se forzó salida.
+[2025-04-01 19:52:46.647966] ❗ Latido perdido, pero no se forzó salida.
+[2025-04-01 19:59:43.096725] ⚠️ Bot detenido por señal
+[2025-04-01 19:59:43.529382] ⚠️ Bot desconectado (bloque finally)
+[2025-04-01 19:59:47.885964] 🟢 Bot de noticias iniciado
+[2025-04-01 20:05:20.436593] ⚠️ Bot detenido por señal
+[2025-04-01 20:05:20.785830] ⚠️ Bot desconectado (bloque finally)
+[2025-04-01 20:32:06.462880] 🟢 Bot de noticias iniciado
+[2025-04-01 20:39:19.513577] ⚠️ Bot detenido por señal
+[2025-04-01 20:39:19.864212] ⚠️ Bot desconectado (bloque finally)
+[2025-04-01 20:39:46.649919] 🟢 Bot de noticias iniciado
+[2025-04-01 21:03:47.056215] ❗ Latido perdido. Forzando salida.
+[2025-04-01 21:04:07.907665] 🟢 Bot de noticias iniciado
+[2025-04-01 21:08:08.266860] ❗ Latido perdido. Forzando salida.
+[2025-04-01 21:13:00.057632] 🟢 Bot de noticias iniciado
+[2025-04-01 21:13:16.172585] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2dc0851f50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-01 21:13:16.548722] ✅ Enviada noticia: تحذيرات في الجزيرة الخضراء من تفشي “القرقوبي” ومخاوف من تأثيره الأمني
+[2025-04-01 21:17:00.408376] ❗ Latido perdido. Forzando salida.
+[2025-04-01 21:18:38.488626] 🟢 Bot de noticias iniciado
+[2025-04-01 21:47:44.111593] ⚠️ Bot detenido por señal
+[2025-04-01 21:47:44.463461] ⚠️ Bot desconectado (bloque finally)
+[2025-04-01 21:47:46.568171] ⚠️ Bot detenido por señal
+[2025-04-01 21:49:00.651420] 🟢 Bot de noticias iniciado
+[2025-04-01 22:04:48.314926] 🟢 Bot de noticias iniciado
+[2025-04-01 22:08:48.667211] ❗ Latido perdido. Forzando salida.
+[2025-04-01 22:10:30.919696] 🟢 Bot de noticias iniciado
+[2025-04-01 22:17:31.263429] ❗ Latido perdido. Forzando salida.
+[2025-04-01 22:18:18.291936] 🟢 Bot de noticias iniciado
+[2025-04-01 23:15:01.342769] ⚠️ Error en feed https://nitter.privacydev.net/kech24web/rss: Remote end closed connection without response
+[2025-04-01 23:41:43.428468] 🟢 Bot de noticias iniciado
+[2025-04-02 06:22:11.874215] 🟢 Bot de noticias iniciado
+[2025-04-02 08:32:17.124543] 🟢 Bot de noticias iniciado
+[2025-04-02 08:32:21.531340] ✅ Enviada noticia: Anvers : un Marocain handicapé sans papiers contraint de dormir dans la rue
+[2025-04-02 08:37:41.897736] ⚠️ Error en feed https://tanjanews.com/feed: Remote end closed connection without response
+[2025-04-02 08:40:35.547410] ❗ Latido perdido. Forzando salida.
+[2025-04-02 08:41:23.771235] 🟢 Bot de noticias iniciado
+[2025-04-02 09:21:14.152954] 🟢 Bot de noticias iniciado
+[2025-04-02 09:21:32.666448] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e9a5b4b90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 09:21:33.113538] ✅ Enviada noticia: قصة لاجئ جزائري في ماليزيا .. من خبير رياضي إلى "طريد مخابرات"
+[2025-04-02 11:01:30.092212] 🟢 Bot de noticias iniciado
+[2025-04-02 12:27:15.729119] 🟢 Bot de noticias iniciado
+[2025-04-02 12:27:16.388761] 🟢 Bot de noticias iniciado
+[2025-04-02 12:27:18.932960] ✅ Enviada noticia: Espagne : L'Andalousie en alerte sur la propagation du «karkoubi»
+[2025-04-02 12:27:19.283534] ✅ Enviada noticia: Espagne : L'Andalousie en alerte sur la propagation du «karkoubi»
+[2025-04-02 12:27:30.325625] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa28b56a450>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:27:30.551873] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7c3d005290>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:27:30.671388] ✅ Enviada noticia: حجز أطنان من المخدرات ضواحي آسفي بعد مطاردة أمنية لشاحنة تهريب
+[2025-04-02 12:27:30.902405] ✅ Enviada noticia: حجز أطنان من المخدرات ضواحي آسفي بعد مطاردة أمنية لشاحنة تهريب
+[2025-04-02 12:27:44.088990] ✅ Enviada noticia: Possession de drogue : amende record au tribunal de Aïn Sebaâ
+[2025-04-02 12:27:44.628291] ✅ Enviada noticia: Possession de drogue : amende record au tribunal de Aïn Sebaâ
+[2025-04-02 12:27:59.203823] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7c3c5b5010>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:27:59.285822] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa28ac94dd0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:27:59.560281] ✅ Enviada noticia: بعد وفاة بن عيسى .. محكوم سابق في قضية مخدرات يهدد منتدى أصيلة وأمينه العام الجديد
+[2025-04-02 12:27:59.641469] ✅ Enviada noticia: بعد وفاة بن عيسى .. محكوم سابق في قضية مخدرات يهدد منتدى أصيلة وأمينه العام الجديد
+[2025-04-02 12:28:11.938882] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa28b61ea50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:28:11.955901] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7c3c5c44d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 12:28:12.335319] ✅ Enviada noticia: توقيف “بزناس” وحجز كمية من الحشيش بمراكش
+[2025-04-02 12:28:12.389496] ✅ Enviada noticia: توقيف “بزناس” وحجز كمية من الحشيش بمراكش
+[2025-04-02 13:01:09.859607] ✅ Enviada noticia: Oussama Ahammoud, acteur de Mocro Maffia de nouveau arrêté à Amsterdam
+[2025-04-02 13:01:10.752711] ✅ Enviada noticia: Oussama Ahammoud, acteur de Mocro Maffia de nouveau arrêté à Amsterdam
+[2025-04-02 13:29:16.098877] ❗ Latido perdido. Forzando salida.
+[2025-04-02 13:29:16.760848] ❗ Latido perdido. Forzando salida.
+[2025-04-02 13:31:54.110908] 🟢 Bot de noticias iniciado
+[2025-04-02 13:39:17.089919] 🟢 Bot de noticias iniciado
+[2025-04-02 13:55:12.766635] ✅ Enviada noticia: توقيف متورط في اعتداء بالسلاح الأبيض بالقنيطرة
+[2025-04-02 14:11:16.761998] 🟢 Bot de noticias iniciado
+[2025-04-02 14:14:42.115094] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f20351aa550>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 14:14:42.475384] ✅ Enviada noticia: بلفاع.. الدرك الملكي يطيح بمروج مخدرات مبحوث عنه وطنياً
+[2025-04-02 14:29:17.091661] ❗ Latido perdido. Forzando salida.
+[2025-04-02 14:34:01.138911] 🟢 Bot de noticias iniciado
+[2025-04-02 14:34:03.073964] 🟢 Bot de noticias iniciado
+[2025-04-02 14:34:03.621348] ⚠️ Bot detenido por señal
+[2025-04-02 14:34:03.969310] ⚠️ Bot desconectado (bloque finally)
+[2025-04-02 14:34:26.923814] ⚠️ Bot detenido por señal
+[2025-04-02 14:34:27.311749] ⚠️ Bot desconectado (bloque finally)
+[2025-04-02 14:34:30.924274] 🟢 Bot de noticias iniciado
+[2025-04-02 14:51:35.460951] 🟢 Bot de noticias iniciado
+[2025-04-02 14:52:14.049738] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f33aee72a10>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 14:52:14.412075] ✅ Enviada noticia: وفاة عريفين وإصابة جندي ثالث في عملية مطاردة مهربي مخدرات في منطقة تاكونيت
+[2025-04-02 15:12:19.132564] ✅ Enviada noticia: مهربو مخدرات يصطدمون عمدا بدورية عسكرية ويتسببون في وفاة جنديين
+[2025-04-02 15:57:42.629759] 🟢 Bot de noticias iniciado
+[2025-04-02 15:57:53.359938] ✅ Enviada noticia: Deux militaires périssent dans un accident lors d'une poursuite de trafiquants de drogue près de Zagora
+[2025-04-02 15:58:17.749169] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5019f10590>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 15:58:18.113312] ✅ Enviada noticia: محكوم في قضايا مخدرات يعتزم الترشح للانتخابات الجزئية بجماعة أصيلة
+[2025-04-02 16:22:04.507715] 🟢 Bot de noticias iniciado
+[2025-04-02 16:23:51.278464] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f54fd2d9c50>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 16:23:51.823113] ✅ Enviada noticia: استشهاد عسكريين مغربيين خلال مطاردة مهربي مخدرات على الحدود
+[2025-04-02 16:27:04.748635] ❗ Latido perdido. Forzando salida.
+[2025-04-02 16:33:22.224212] 🟢 Bot de noticias iniciado
+[2025-04-02 16:37:22.583426] ❗ Latido perdido. Forzando salida.
+[2025-04-02 16:43:08.681091] 🟢 Bot de noticias iniciado
+[2025-04-02 17:01:47.037422] 🟢 Bot de noticias iniciado
+[2025-04-02 17:16:14.895176] 🟢 Bot de noticias iniciado
+[2025-04-02 17:25:51.666748] 🟢 Bot de noticias iniciado
+[2025-04-02 17:42:07.752831] 🟢 Bot de noticias iniciado
+[2025-04-02 18:00:48.886487] ✅ Enviada noticia: Le karkoubi marocain fait des ravages en Espagne
+[2025-04-02 18:09:02.998531] ✅ Enviada noticia: العرائش.. استعراض بالدراجة النارية يودي بحياة قاصر في ثاني أيام العيد
+[2025-04-02 19:07:34.899007] ⚠️ Error en feed https://mobile.telquel.ma/feed: IncompleteRead(10 bytes read)
+[2025-04-02 19:10:47.755874] ✅ Enviada noticia: Béziers : 500 000 € pour "légaliser" des nacros marocains
+[2025-04-02 19:14:34.848450] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fef72514f90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 19:14:35.262642] ✅ Enviada noticia: إحباط تهريب "الشيرا" بباب سبتة‎
+[2025-04-02 20:03:19.200477] 🟢 Bot de noticias iniciado
+[2025-04-02 20:49:14.026417] 🟢 Bot de noticias iniciado
+[2025-04-02 20:49:44.686433] ✅ Enviada noticia: فونطوم محمل بأزيد من طنين من المخدرات يصل إلى إسبانيا صبيحة العيد
+[2025-04-02 21:34:16.067509] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f13e4498090>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 21:34:16.448710] ✅ Enviada noticia: إحباط تهريب 80 كلغ من المخدرات بمعبر سبتة
+[2025-04-02 22:17:09.008518] 🟢 Bot de noticias iniciado
+[2025-04-02 22:30:45.590495] 🟢 Bot de noticias iniciado
+[2025-04-02 23:01:46.046451] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcec8b1f350>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-02 23:01:46.407757] ✅ Enviada noticia: درك أسفي يحجز شاحنة محملة بـ 16.5 طنا من المخدرات
+[2025-04-02 23:41:25.875229] ⚠️ Bot detenido por señal
+[2025-04-02 23:41:26.229741] ⚠️ Bot desconectado (bloque finally)
+[2025-04-02 23:42:07.953464] 🟢 Bot de noticias iniciado
+[2025-04-02 23:43:17.088899] ⚠️ Bot detenido por señal
+[2025-04-02 23:43:17.436462] ⚠️ Bot desconectado (bloque finally)
+[2025-04-02 23:43:28.589825] 🟢 Bot de noticias iniciado
+[2025-04-03 00:26:35.178979] 🟢 Bot de noticias iniciado
+[2025-04-03 00:26:49.962602] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ba939a990>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 00:26:50.327485] ✅ Enviada noticia: توقيف مهاجر نيجيري بحوزته مخدرات في قلعة السراغنة
+[2025-04-03 00:27:44.689143] 🟢 Bot de noticias iniciado
+[2025-04-03 00:33:02.188498] 🟢 Bot de noticias iniciado
+[2025-04-03 00:48:19.081653] ⚠️ Bot detenido por señal
+[2025-04-03 00:48:19.428709] ⚠️ Bot desconectado (bloque finally)
+[2025-04-03 00:48:25.615968] 🟢 Bot de noticias iniciado
+[2025-04-03 00:48:42.147505] 🟢 Bot de noticias iniciado
+[2025-04-03 01:19:22.119311] 🟢 Bot de noticias iniciado
+[2025-04-03 01:31:59.727401] 🟢 Bot de noticias iniciado
+[2025-04-03 08:07:39.500842] 🟢 Bot de noticias iniciado
+[2025-04-03 08:07:44.131239] ✅ Enviada noticia: Opération antimafia en Italie : 45 personnes arrêtées, dont des Marocains
+[2025-04-03 08:07:45.253132] ✅ Enviada noticia: حيازة وترويج الكوكايين يطيح بمغربي في قبضة أمن إيطاليا
+[2025-04-03 08:07:46.450455] ✅ Enviada noticia: إحباط محاولتين لتهريب الحشيش في معبر باب سبتة وحجز 80 كيلوغراماً
+[2025-04-03 08:41:15.924874] 🟢 Bot de noticias iniciado
+[2025-04-03 09:20:20.292659] 🟢 Bot de noticias iniciado
+[2025-04-03 09:49:20.555748] ❗ Latido perdido. Forzando salida.
+[2025-04-03 10:10:52.592284] 🟢 Bot de noticias iniciado
+[2025-04-03 10:10:58.765639] ✅ Enviada noticia: Cigarettes au Maroc : les prix repartent à la hausse
+[2025-04-03 10:15:46.812478] ✅ Enviada noticia: إحباط عملية تهريب كوكايين عبر غواصة قرب السواحل المغربية
+[2025-04-03 10:39:43.707388] 🟢 Bot de noticias iniciado
+[2025-04-03 10:43:43.982602] ❗ Latido perdido. Forzando salida.
+[2025-04-03 11:04:44.594718] 🟢 Bot de noticias iniciado
+[2025-04-03 11:05:15.447708] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53ade7510>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 11:05:15.821081] ✅ Enviada noticia: إحباط محاولة تهريب 80 كلغ من المخدرات
+[2025-04-03 12:11:13.390501] ✅ Enviada noticia: انطلاق مبكر لموسم الحصاد بالمغرب و أمطار مارس تحد من “السنوات العجاف”
+[2025-04-03 12:13:24.910920] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8e1010>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 12:13:25.285641] ✅ Enviada noticia: إحباط محاولتين لتهريب مخدر الشيرا بمعبر باب سبتة
+[2025-04-03 12:33:35.408337] ❗ Latido perdido. Forzando salida.
+[2025-04-03 12:34:41.462789] 🟢 Bot de noticias iniciado
+[2025-04-03 12:46:40.263755] 🟢 Bot de noticias iniciado
+[2025-04-03 12:48:28.386576] ✅ Enviada noticia: Les hausses vont de 1 à 3 DH  : Nouvelle augmentation des prix  des cigarettes depuis le 1er avril
+[2025-04-03 14:21:26.329230] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa7702e8c90>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 14:21:26.807199] ✅ Enviada noticia: في عمليتين منفصلتين.. الدرك يعتقل قاصرين متورطين في جرائم سرقة بمراكش
+[2025-04-03 16:40:56.302233] 🟢 Bot de noticias iniciado
+[2025-04-03 17:06:24.977817] 🟢 Bot de noticias iniciado
+[2025-04-03 17:06:38.042518] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0a2cf65ed0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 17:06:38.414627] ✅ Enviada noticia: تفكيك شبكة تهريب مخدرات من المغرب
+[2025-04-03 17:06:50.601372] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0a2c5653d0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 17:06:50.964859] ✅ Enviada noticia: الأمن يحبط تنقل عصابة إجرامية على متن “تريبورتور” في البيضاء
+[2025-04-03 17:25:14.026464] 🟢 Bot de noticias iniciado
+[2025-04-03 18:08:30.653672] 🟢 Bot de noticias iniciado
+[2025-04-03 18:08:47.585297] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f183b762510>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 18:08:47.935867] ✅ Enviada noticia: إحباط محاولتي تهريب مخدرات بمعبر سبتة وحجز 31 كيلوغرامًا من الشيرا
+[2025-04-03 18:09:17.773540] ❌ Error al traducir: HTTPSConnectionPool(host='libretranslate.de', port=443): Max retries exceeded with url: /translate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f183b6d6fd0>, 'Connection to libretranslate.de timed out. (connect timeout=10)'))
+[2025-04-03 18:09:18.150265] ✅ Enviada noticia: حصري.. تنسيق أمني محكم يطيح بمجرم خطير ويمكن الأمن من حجز 8 سيارات مسروقة
+[2025-04-03 18:19:30.727848] ✅ Enviada noticia: Valence : un Marocain visé par une OQTF après un salut nazi
+[2025-04-03 18:26:02.274420] ⚠️ Bot detenido por señal
+[2025-04-03 18:26:02.656761] ⚠️ Bot desconectado (bloque finally)
+[2025-04-03 18:28:55.428456] 🟢 Bot de noticias iniciado
+[2025-04-03 18:34:46.749017] ⚠️ Bot detenido por señal
+[2025-04-03 18:38:37.185046] 🟢 Bot de noticias iniciado
+[2025-04-03 18:41:37.541411] ❗ Latido perdido. Forzando salida.
+[2025-04-03 18:41:47.578367] 🟢 Bot de noticias iniciado
+[2025-04-03 18:43:20.119966] ⚠️ Bot detenido por señal
+[2025-04-03 18:43:22.780102] 🟢 Bot de noticias iniciado
+[2025-04-03 18:43:23.194722] 🌀 Revisión iniciada
+[2025-04-03 18:45:02.765643] 🌀 Revisión iniciada
+[2025-04-03 18:46:24.004662] ❗ Latido perdido. Forzando salida.
+[2025-04-03 18:46:56.827734] 🟢 Bot de noticias iniciado
+[2025-04-03 18:46:57.563875] 🌀 Revisión iniciada
+[2025-04-03 18:48:57.249446] 🌀 Revisión iniciada
+[2025-04-03 18:49:57.165949] ❗ Latido perdido. Forzando salida.
+[2025-04-03 18:50:44.222681] 🟢 Bot de noticias iniciado
+[2025-04-03 18:50:44.652114] 🌀 Revisión iniciada
+[2025-04-03 18:51:13.765378] ⚠️ Bot detenido por señal
+[2025-04-03 18:51:14.236036] ⚠️ Bot desconectado (bloque finally)
+[2025-04-03 18:54:20.378967] 🟢 Bot de noticias iniciado
+[2025-04-03 19:08:59.587157] ⚠️ Bot detenido por señal
+[2025-04-03 19:09:53.991105] 🟢 Bot de noticias iniciado
+[2025-04-03 19:11:48.684951] ⚠️ Bot detenido por señal
+[2025-04-03 19:11:52.827559] 🟢 Bot de noticias iniciado
+[2025-04-03 20:11:31.029136] 🟢 Bot de noticias iniciado
+[2025-04-03 20:36:38.148418] 🟢 Bot de noticias iniciado
+[2025-04-03 20:37:04.355048] ✅ Enviada noticia: حاملا أجندة مكثفة.. زيارة مرتقبة لوزير الداخلية الفرنسي للمغرب
+[2025-04-03 20:44:39.846516] 🟢 Bot de noticias iniciado
+[2025-04-03 21:13:44.530372] 🟢 Bot de noticias iniciado
+[2025-04-03 22:01:03.498330] ✅ Enviada noticia: اعتقال فرنسية بسبب بيع تصاريح إقامة لـ “بزناسة” مغاربة مقابل 400 ألف يورو
+[2025-04-03 22:54:48.257450] 🟢 Bot de noticias iniciado
+[2025-04-03 22:58:48.607977] ❗ Latido perdido. Forzando salida.
+[2025-04-04 09:20:32.070573] 🟢 Bot de noticias iniciado
+[2025-04-04 09:20:36.338984] ✅ Enviada noticia: Maroc : deux soldats tués par des trafiquants de drogue lors d'une course-poursuite
+[2025-04-04 09:26:41.808645] ❗ Latido perdido. Forzando salida.
+[2025-04-04 09:38:07.886139] 🟢 Bot de noticias iniciado
+[2025-04-04 09:58:01.210837] 🟢 Bot de noticias iniciado
+[2025-04-04 10:32:19.698043] 🟢 Bot de noticias iniciado
+[2025-04-04 11:07:26.406709] 🟢 Bot de noticias iniciado
+[2025-04-04 11:50:20.817769] 🟢 Bot de noticias iniciado
+[2025-04-04 12:03:49.914583] 🟢 Bot de noticias iniciado
+[2025-04-04 12:09:50.222135] ❗ Latido perdido. Forzando salida.
+[2025-04-04 12:10:11.406442] 🟢 Bot de noticias iniciado
+[2025-04-04 13:30:40.245740] 🟢 Bot de noticias iniciado
+[2025-04-04 13:40:40.307500] ❗ Latido perdido. Forzando salida.
+[2025-04-04 13:58:35.934641] 🟢 Bot de noticias iniciado
+[2025-04-04 13:59:59.777811] ⚠️ Error en feed https://nitter.privacydev.net/Le360fr/rss: Remote end closed connection without response
+[2025-04-04 14:04:00.306567] ⚠️ Error en feed https://nitter.privacydev.net/kech24web/rss: Remote end closed connection without response
+[2025-04-04 16:25:30.781653] 🟢 Bot de noticias iniciado
+[2025-04-04 16:25:36.914711] ✅ Enviada noticia: إحباط محاولة تهريب شحنة من الحشيش بميناء سبتة
+[2025-04-04 16:41:35.498204] 🟢 Bot de noticias iniciado
+[2025-04-04 16:49:10.309542] ✅ Enviada noticia: Belkacem Mir : “Said Naciri m'a remis 1 million de dirhams au parking du Parlement”
+[2025-04-04 17:18:05.261267] ✅ Enviada noticia: توقيف مغاربة ضمن شبكة ضخمة لتهريب المخدرات بإسبانيا
+[2025-04-04 17:24:50.040195] ❗ Latido perdido. Forzando salida.
+[2025-04-04 17:25:03.442166] 🟢 Bot de noticias iniciado
+[2025-04-04 17:29:00.830137] ⚠️ Error en feed https://www.barlamane.com/feed: Remote end closed connection without response
+[2025-04-05 15:47:59.516053] 🟢 Bot de noticias iniciado
+[2025-04-05 15:48:16.007632] ✅ Enviada noticia: إنزكان.. توقيف متورط في تزوير العملة الوطنية وعرضها على التداول
+[2025-04-05 15:48:26.892407] ✅ Enviada noticia: توقيف متورط في ترويع ساكنة سيدي ابراهيم بعد مقاومة عنيفة للدرك
+[2025-04-05 15:48:27.387413] ✅ Enviada noticia: انطلاق محاكمة أفراد شبكة مخدرات متورطين في إطلاق النار على دركيين
+[2025-04-05 15:48:27.754905] ✅ Enviada noticia: تسجيل عملية سرقة جديدة بمحيط سينما الريف يدق ناقوس الخطر
+[2025-04-05 15:48:28.917751] ✅ Enviada noticia: محاولات لعودة مهربي الحشيش عبر قرية اركمان والمصالح الأمنية مدعوة لتشديد المراقبة
+[2025-04-05 17:30:46.270213] 🟢 Bot de noticias iniciado
+[2025-04-05 18:27:59.305463] 🟢 Bot de noticias iniciado
+[2025-04-05 18:28:02.655175] ✅ Enviada noticia: درك بوسكورة يفكك عصابة كوكايين
+[2025-04-05 18:28:23.763897] ✅ Enviada noticia: تزوير الأوراق المالية يطيح بأربعيني في إنزكان
+[2025-04-05 19:44:00.090029] 🟢 Bot de noticias iniciado
+[2025-04-05 19:44:03.498987] ✅ Enviada noticia: إيقاف مروج أقراص مخدرة بخريبكة
+[2025-04-05 20:50:51.999430] ✅ Enviada noticia: تزوير أوراق نقدية يورط أربعينيا
+[2025-04-06 00:13:00.381090] ❗ Latido perdido. Forzando salida.
+[2025-04-06 00:19:04.695755] 🟢 Bot de noticias iniciado
+[2025-04-06 04:00:09.476737] ✅ Enviada noticia: هل القهوة سريعة التحضير مضرّة حقا؟
+[2025-04-06 04:07:29.283069] ✅ Enviada noticia: أكادير.. اعتداء على رئيس الشرطة القضائية بتيكيوين والأمن يطلق الرصاص على الجاني
+[2025-04-06 06:00:03.093424] ✅ Enviada noticia: Un MRE recherché par la Turquie arrête en Espagne
+[2025-04-06 12:15:43.923767] 🟢 Bot de noticias iniciado
+[2025-04-06 12:18:45.204645] ✅ Enviada noticia: دش الأنف يخفف أعراض التهاب الأنف التحسسي ويعزز التنفس
+[2025-04-06 12:47:24.035102] 🟢 Bot de noticias iniciado
+[2025-04-06 12:47:27.492821] ✅ Enviada noticia: تجار ذهب بالمغرب تحت المجهر .. تحقيقات في تبييض أموال المخدرات
+[2025-04-06 12:47:47.069031] ✅ Enviada noticia: توقيف لص متخصص في سرقة الدراجات النارية بمراكش
+[2025-04-06 14:18:26.711398] 🟢 Bot de noticias iniciado
+[2025-04-06 14:42:26.597887] 🟢 Bot de noticias iniciado
+[2025-04-06 15:04:25.285375] 🟢 Bot de noticias iniciado
+[2025-04-06 16:41:38.876469] 🟢 Bot de noticias iniciado
+[2025-04-06 19:37:42.328478] 🟢 Bot de noticias iniciado
+[2025-04-06 19:38:08.626341] ✅ Enviada noticia: كان يشكل موضوع 11 مذكرة بحث.. سقوط متورط في سرقة دراجات نارية في قبضة درك السوالم
+[2025-04-06 19:38:08.991930] ✅ Enviada noticia: بتنسيق مع الديستي إحباط محاولة تهريب أزيد من 14 ألف قرص مخدر بمراكش
+[2025-04-06 22:19:35.574297] 🟢 Bot de noticias iniciado
+[2025-04-06 22:19:40.136608] ✅ Enviada noticia: Narco-tunnel à Ceuta : des policiers vendus pour 120 000 euros
+[2025-04-06 22:19:43.155569] ✅ Enviada noticia: إحباط محاولة تهريب كميات ضخمة من المخدرات بمطار طنجة الدولي
+[2025-04-07 06:33:24.718564] 🟢 Bot de noticias iniciado
+[2025-04-07 06:33:29.589981] ✅ Enviada noticia: إحباط تهريب المخدرات بمطار طنجة
+[2025-04-07 06:35:00.806057] ✅ Enviada noticia: حجز طنين من “الحشيش المغربي” بإسبانيا
+[2025-04-07 06:36:16.553411] 🟢 Bot de noticias iniciado
+[2025-04-07 08:30:55.039376] 🟢 Bot de noticias iniciado
+[2025-04-07 09:30:11.589066] 🟢 Bot de noticias iniciado
+[2025-04-07 10:45:42.837014] 🟢 Bot de noticias iniciado
+[2025-04-07 10:45:45.834578] ✅ Enviada noticia: التشدد في "فيزا شنغن" يجني الفشل
+[2025-04-07 10:46:09.202814] ✅ Enviada noticia: لافتات متهالكة تهدد الأرواح على طرقات آسفي
+[2025-04-07 10:51:41.438020] 🟢 Bot de noticias iniciado
+[2025-04-07 11:29:32.048128] 🟢 Bot de noticias iniciado
+[2025-04-07 11:29:43.470129] ✅ Enviada noticia: Tikiouine: Des agents de police contraints d’utiliser leurs armes pour neutraliser un individu dangereux
+[2025-04-07 12:23:25.495026] 🟢 Bot de noticias iniciado
+[2025-04-07 13:40:57.339933] ✅ Enviada noticia: إحباط محاولة تهريب 30 كيلوغرام من المعسل عبر معبر مليلية وتوقيف مهرب يحمل جنسية مزدوجة
+[2025-04-07 14:20:45.178834] ✅ Enviada noticia: الاطاحة بسارق دراجة عضو من فرقة “لفناير” بمراكش
+[2025-04-07 14:56:34.592430] ✅ Enviada noticia: تقرير يظهر فشل القيود الأوروبية على منح تأشيرة شنغن في الحد من الهجرة
+[2025-04-07 15:00:47.973824] ✅ Enviada noticia: المندوبية العامة للسجون: ضبط ممنوعات في قفف عيد الفطر
+[2025-04-07 15:58:45.752491] ✅ Enviada noticia: سقوط شجرة يتسبب في خسائر جسيمة لدراجات نارية بمراكش + صور
+[2025-04-07 16:00:21.358508] ✅ Enviada noticia: ممنوعات تسرب إلى نزلاء  بمؤسسات سجنية  في فقة عيد الفطر
+[2025-04-07 16:04:35.019586] ✅ Enviada noticia: La BNPJ intervient dans l’affaire du “tunnel secret” découvert entre Sebta et le Maroc
+[2025-04-07 16:19:05.542517] ✅ Enviada noticia: معطيات جديدة عن تهريب الحشيش من المغرب عبر نفق سبتة المحتلة
+[2025-04-07 16:33:26.845366] ✅ Enviada noticia: الصحافة الإسبانية تكشف مستجدات نفق المخدرات بسبتة المحتلة
+[2025-04-07 18:15:35.906098] ✅ Enviada noticia: الدرك ينجح في تفكيك عصابة إجرامية خطيرة وضبط 10 دراجات نارية مسروقة بتامنصورت +صور
+[2025-04-07 18:40:57.432282] ✅ Enviada noticia: إحباط محاولة ترويج 14 ألف قرص مخدر.. منظمة حقوقية تشيد بجهود الأجهزة الأمنية بمراكش
+[2025-04-07 18:45:25.823657] ❗ Latido perdido. Forzando salida.
+[2025-04-07 18:49:19.792968] 🟢 Bot de noticias iniciado
+[2025-04-07 19:46:37.531174] ✅ Enviada noticia: تفاصيل مثيرة.. نفق تهريب الحشيش بين سبتة والفنيدق يورط عناصر أمنية
+[2025-04-07 21:43:05.656532] ✅ Enviada noticia: آيت عميرة: حادثة سير خطيرة تخلف قتيلا
+[2025-04-07 22:01:32.171320] ✅ Enviada noticia: حادثة سير مروعة ضواحي الدريوش ترسل سائق دراجة نارية للمستعجلات
+[2025-04-07 22:20:35.284108] ✅ Enviada noticia: هل القهوة سريعة التحضير مضرّة حقا؟
+[2025-04-07 23:22:58.597805] ⚠️ Error en feed https://telquel.ma/feed/: IncompleteRead(9985 bytes read)
+[2025-04-07 23:24:20.104765] ❗ Latido perdido. Forzando salida.
+[2025-04-07 23:33:54.917014] 🟢 Bot de noticias iniciado
+[2025-04-07 23:35:33.929601] ✅ Enviada noticia: مصرع قاصر في حادث اصطدام بين دراجة نارية وسيارة بطنجة
+[2025-04-08 06:19:18.828213] 🟢 Bot de noticias iniciado
+[2025-04-08 06:19:22.922483] ✅ Enviada noticia: Condamnée à vie à 18 ans à Oman, une Marocaine graciée par le Sultan
+[2025-04-08 06:19:51.146742] ✅ Enviada noticia: ضابط أمن ضمن شبكة كوكايين
+[2025-04-08 09:00:54.333609] ✅ Enviada noticia: هل هي أزمة كفاءات؟.. ترشيحات لرئاسة جامعة ابن زهر تطرح التساؤلات
+[2025-04-08 09:27:06.487067] ✅ Enviada noticia: عصابة من الهولنديين ذوي الأصول المغربية تروع فيينا.. توقيف أحدهم بعد إصابته بالرصاص
+[2025-04-08 10:41:29.892690] ✅ Enviada noticia: الحرس المدني الإسباني يُحبط تهريب 11 سيارة مسروقة نحو المغرب
+[2025-04-08 10:54:56.457325] ✅ Enviada noticia: سبتة.. دراجات نارية وشوكولاتة “كيندر” لتهريب الحشيش نحو إسبانيا
+[2025-04-08 12:24:22.864808] ✅ Enviada noticia: حيل تهريب غير مسبوقة .. الحرس المدني بسبتة يُفشل محاولة إدخال 47 كيلوغرامًا من الحشيش
+[2025-04-08 14:00:41.899896] ✅ Enviada noticia: آلاف من حبوب الهلوسة في حوزة شخصين في سلا
+[2025-04-08 14:08:00.218404] ✅ Enviada noticia: نقل لحوم يوقف شخصين في خنيفرة
+[2025-04-08 15:21:19.711177] 🟢 Bot de noticias iniciado
+[2025-04-08 15:21:24.903613] ✅ Enviada noticia: محاولة تهريب الحشيش تقود مغربيًا إلى السجن في سبتة
+[2025-04-08 15:21:29.113368] ✅ Enviada noticia: Salé : saisie de plus de 3500 comprimés psychotropes, deux individus interpellés
+[2025-04-08 15:21:49.051639] ✅ Enviada noticia: Trafic de psychotropes : Deux personnes interpellées à Salé
+[2025-04-08 19:31:31.353056] 🟢 Bot de noticias iniciado
+[2025-04-08 19:31:36.868656] ✅ Enviada noticia: الذبيحة السرية تطيح بشخصين في خنيفرة
+[2025-04-08 19:31:39.009285] ✅ Enviada noticia: إدانة مواطن مغربي بالسجن في قضية تهريب مخدرات بسبتة
+[2025-04-08 19:31:41.946209] ✅ Enviada noticia: “Tunnel secret” sous Sebta : des agents corrompus de la Guardia civil sécurisaient le passage de drogue
+[2025-04-08 19:43:07.119260] 🟢 Bot de noticias iniciado
+[2025-04-08 21:55:36.633176] 🟢 Bot de noticias iniciado
+[2025-04-08 22:49:08.059106] 🟢 Bot de noticias iniciado
+[2025-04-08 22:49:33.003052] ✅ Enviada noticia: إحباط عملية للتهريب الدولي للمخدرات واعتقال إسباني في القضية بالحسيمة
+[2025-04-08 23:12:06.259053] 🟢 Bot de noticias iniciado
+[2025-04-08 23:12:11.868353] ✅ Enviada noticia: توقيف إسباني حاول تهريب المخدرات عبر شواطئ الحسيمة
+[2025-04-08 23:40:30.369189] 🟢 Bot de noticias iniciado
+[2025-04-09 06:38:40.655438] 🟢 Bot de noticias iniciado
+[2025-04-09 06:38:45.446931] ✅ Enviada noticia: Trafic de drogue depuis le Maroc : quatre Français rejugés à Rennes
+[2025-04-09 06:38:46.449091] ✅ Enviada noticia: اعتقال مغربي بحوزته مواد مخدرة بإيطاليا
+[2025-04-09 06:39:26.134911] ✅ Enviada noticia: افتحاص وثائق مستوردي قمح
+[2025-04-09 08:02:29.363831] 🟢 Bot de noticias iniciado
+[2025-04-09 08:07:30.845894] 🟢 Bot de noticias iniciado
+[2025-04-09 09:10:14.572442] 🟢 Bot de noticias iniciado
+[2025-04-09 09:54:22.485257] 🟢 Bot de noticias iniciado
+[2025-04-09 10:43:19.149113] 🟢 Bot de noticias iniciado
+[2025-04-09 11:27:04.477586] 🟢 Bot de noticias iniciado
+[2025-04-09 15:11:34.558926] 🟢 Bot de noticias iniciado
+[2025-04-09 15:11:40.692888] ✅ Enviada noticia: توقيف مروج للمخدرات ومزوده الرئيسي في عملية أمنية محكمة بسلا
+[2025-04-09 18:06:59.744203] 🟢 Bot de noticias iniciado
+[2025-04-09 18:07:25.723800] ✅ Enviada noticia: حملة أمريكية ضد الهجرة غير الشرعية توقع بألف متهم في أسبوع واحد
+[2025-04-09 18:07:26.127492] ✅ Enviada noticia: محاولة ترويج شحنة أقراص مخدرة تطيح بـ3 أشخاص بأكادير
+[2025-04-09 18:07:26.502574] ✅ Enviada noticia: حصيلة مهمة لعناصر الامن بالمحاميد في الاسبوع الاول بعد رمضان
+[2025-04-09 18:07:27.648799] ✅ Enviada noticia: اكتشاف حصري لبقايا مستعر أعظم جديد يُعرف باسم “سكايلا”
+[2025-04-09 20:33:28.642742] 🟢 Bot de noticias iniciado
+[2025-04-09 20:33:35.441817] ✅ Enviada noticia: توقيف ثلاثة أشخاص متورطين في ترويج المخدرات وحجز أزيد من 3 آلاف قرص مخدر و2.5 كلغ من الشيرا
+[2025-04-09 20:33:54.937441] ✅ Enviada noticia: الشرطة الإسبانية تنفذ 101 عملية لمنع تسلل المهاجرين إلى مليلية في 3 سنوات
+[2025-04-09 21:06:50.521854] ✅ Enviada noticia: توقيف آلاف المهاجرين السريين بالمضيق ضمن حملات تمشيطية موسعة
+[2025-04-09 21:09:47.851984] ✅ Enviada noticia: اعتقال مروج مخدرات ينشط قرب المؤسسات التعليمية في أزلا
+[2025-04-09 21:41:07.003359] ✅ Enviada noticia: كاميرا مراقبة توثق لعملية سرقة ماكرة بمراكش + ڤيديو
+[2025-04-09 22:16:29.263038] 🟢 Bot de noticias iniciado
+[2025-04-09 22:22:49.647750] ✅ Enviada noticia: توقيف قاصر تورط في سرقة دراجة نارية بسيدي يوسف بن علي
+[2025-04-10 07:48:33.294028] 🟢 Bot de noticias iniciado
+[2025-04-10 07:48:38.712329] ✅ Enviada noticia: Quand l'administration française rend la vie dure aux étrangers
+[2025-04-10 07:48:59.805192] ✅ Enviada noticia: تحقيقات في توزيع مشبوه لبقع أرضية تم منحها في إطار مشروع ملكي
+[2025-04-10 07:49:08.797818] ✅ Enviada noticia: تفكيك شبكة ممنوعات ببوقنادل
+[2025-04-10 09:34:16.506548] 🟢 Bot de noticias iniciado
+[2025-04-10 10:10:54.706826] 🟢 Bot de noticias iniciado
+[2025-04-10 10:26:04.728682] 🟢 Bot de noticias iniciado
+[2025-04-10 10:54:16.266571] 🟢 Bot de noticias iniciado
+[2025-04-10 10:54:21.716615] ✅ Enviada noticia: “الكوكايين” يورّط شرطياً ويضعه رهن الحراسة النظرية في القنيطرة
+[2025-04-10 12:07:21.657074] 🟢 Bot de noticias iniciado
+[2025-04-10 12:34:44.834238] 🟢 Bot de noticias iniciado
+[2025-04-10 12:34:50.607760] ✅ Enviada noticia: طنجة.. توقيف شخصين بحوزتهما “هيليوم مخدر” وكوكايين وأقراص مهلوسة
+[2025-04-10 12:45:37.970955] ✅ Enviada noticia: يقظة الأمن تطيح بمروجي مخدرات
+[2025-04-10 13:49:24.327926] 🟢 Bot de noticias iniciado
+[2025-04-10 13:49:31.242006] ✅ Enviada noticia: توقيف شخصين بحوزتهما أكثر من 3000 قرص مخدر وكميات من الكوكايين والشيرا
+[2025-04-10 15:05:08.142339] ✅ Enviada noticia: ممنوعات توقف شخصين بمدينة فاس
+[2025-04-10 17:22:19.085625] 🟢 Bot de noticias iniciado
+[2025-04-10 17:49:07.715110] 🟢 Bot de noticias iniciado
+[2025-04-10 17:49:32.292298] ✅ Enviada noticia: أوروبا تبحث إعادة المزيد من المهاجرين غير النظاميين إلى المغرب
+[2025-04-10 18:43:10.378206] 🟢 Bot de noticias iniciado
+[2025-04-10 20:24:26.168923] 🟢 Bot de noticias iniciado
+[2025-04-10 20:25:08.149687] ✅ Enviada noticia: إحباط محاولة لتهريب 25 طناً من مخدر الشيرا وتوقيف متورطين
+[2025-04-10 20:25:29.032428] ✅ Enviada noticia: “مصيبة”.. إجهاض محاولة لتهريب شحنة من المخدرات تزن 25 طنا و45 كيلوغراما من مخدر الشيرا
+[2025-04-10 20:25:34.299277] ✅ Enviada noticia: إجهاض محاولة للتهريب الدولي لشحنة من المخدرات تزن 25 طنا و45 كيلوغراما من مخدر الشيرا
+[2025-04-10 20:39:12.783828] 🟢 Bot de noticias iniciado
+[2025-04-10 21:57:14.535541] 🟢 Bot de noticias iniciado
+[2025-04-10 21:57:17.754102] ✅ Enviada noticia: إجهاض محاولة لتهريب المخدرات
+[2025-04-10 21:57:20.032835] ✅ Enviada noticia: “الديستي” تجهض عملية نوعية للتهريب الدولي للمخدرات بسيدي قاسم
+[2025-04-10 21:57:30.068081] ✅ Enviada noticia: معلومات استخباراتية دقيقة تقود الشرطة إلى إحباط أضخم محاولة تهريب دولي للمخدرات منذ بداية 2025
+[2025-04-10 21:57:35.199567] ✅ Enviada noticia: تنسيق أمني يُجهض محاولة تهريب دولي لـ25 طناً من مخدر الشيرا بسيدي قاسم (صور)
+[2025-04-10 21:57:36.271873] ✅ Enviada noticia: مديرية الأمن تضرب بقوة بإحباط محاولة تهريب 25 طنا من الشيرا بسيدي قاسم
+[2025-04-10 21:57:37.622398] ✅ Enviada noticia: إحباط تهريب 25 طناً من الشيرا بسيدي قاسم
+[2025-04-10 21:57:39.790013] ✅ Enviada noticia: إحباط محاولة تهريب 25 طنا من مخدر الشيرا بسيدي قاسم
+[2025-04-11 07:56:43.925754] 🟢 Bot de noticias iniciado
+[2025-04-11 07:56:50.297981] ✅ Enviada noticia: موجة جديدة من القاصرين المغاربة تقتحم سبتة سباحةً وسط أمواج الموت
+[2025-04-11 09:50:56.613776] ✅ Enviada noticia: Sidi Kacem : Saisie de plus de 25t de chira lors d’une opération conjointe des services de sécurité
+[2025-04-11 09:57:42.186793] ⚠️ Error en feed http://assabah.ma/feed/: Remote end closed connection without response
+[2025-04-11 11:25:32.701769] 🟢 Bot de noticias iniciado
+[2025-04-11 11:25:39.317446] ✅ Enviada noticia: عملية أمنية محكمة تُسقط مروج كوكايين ينشط بين طنجة وتطوان
+[2025-04-11 12:48:51.696544] 🟢 Bot de noticias iniciado
+[2025-04-11 12:48:55.107318] ✅ Enviada noticia: تسمم طفلة بعد تناول قطعة حشيش ظنتها شوكولاتة
+[2025-04-11 12:49:33.060070] ✅ Enviada noticia: وزير الداخلية الفرنسي قادم إلى المغرب.. ترحيل المهاجرين وقضايا أمنية حساسة على الطاولة
+[2025-04-11 13:40:00.426742] 🟢 Bot de noticias iniciado
+[2025-04-11 13:40:24.203586] ✅ Enviada noticia: توقيف سبعيني بمطار الحسيمة محاولا تهريب 19.5 كيلوغرام من الشيرا إلى بلجيكا
+[2025-04-11 16:47:23.200501] 🟢 Bot de noticias iniciado
+[2025-04-11 16:47:28.077921] ✅ Enviada noticia: حجز كميات من “الكوكايين” والأقراص المهلوسة ضواحي القنيطرة
+[2025-04-11 16:47:44.902569] ✅ Enviada noticia: ضبط 64 ألف قرص مخدر في معبر باب سبتة كانت في طريقها إلى المغرب
+[2025-04-11 16:47:47.711736] ✅ Enviada noticia: عصابة تنال 110 سنوات سجنا بعد ترويع راغبين في الهجرة
+[2025-04-11 17:35:32.116768] 🟢 Bot de noticias iniciado
+[2025-04-11 18:39:32.770745] 🟢 Bot de noticias iniciado
+[2025-04-11 18:53:53.587483] 🟢 Bot de noticias iniciado
+[2025-04-11 19:58:19.467191] 🟢 Bot de noticias iniciado
+[2025-04-11 19:58:47.680499] ✅ Enviada noticia: Laâyoune : Destruction d’une importante quantité de drogues et de psychotropes
+[2025-04-11 22:12:07.212891] 🟢 Bot de noticias iniciado
+[2025-04-11 22:12:26.903250] ✅ Enviada noticia: أطنان المخدرات المحجوزة في سيدي قاسم تفضح هشام جيراندو
+[2025-04-11 22:12:30.652977] ✅ Enviada noticia: حجز أزيد من 90 دراجة نارية مخالفة بمراكش
+[2025-04-11 22:47:58.032130] 🟢 Bot de noticias iniciado
+[2025-04-11 22:48:03.159696] ✅ Enviada noticia: “المقاتل” يسقط في قضبة أمن الناظور
+[2025-04-12 07:18:28.403546] 🟢 Bot de noticias iniciado
+[2025-04-12 07:18:32.612593] ✅ Enviada noticia: Bruno Retailleau est au Maroc
+[2025-04-12 07:18:32.976175] ✅ Enviada noticia: Une fraude à grande échelle détectée par la douane marocaine
+[2025-04-12 07:18:34.769719] ✅ Enviada noticia: طنجة.. مصرع شاب في حادث دراجة نارية قرب مركز الحليب
+[2025-04-12 07:19:06.371565] ✅ Enviada noticia: الإطاحة بمروجي مخدرات بأكادير
+[2025-04-12 11:35:47.356424] 🟢 Bot de noticias iniciado
+[2025-04-12 11:35:52.106460] ✅ Enviada noticia: انتشار السجائر الإلكترونية لـ”تعويض” التدخين التقليدي.. أداة مساعدة أم فخ للإدمان؟
+[2025-04-12 11:36:01.800271] ✅ Enviada noticia: توقيف شخصين متلبسبن بحيازة مؤثرات عقلية وغاز مخدر
+[2025-04-12 12:58:03.612210] 🟢 Bot de noticias iniciado
+[2025-04-12 12:58:09.162907] ✅ Enviada noticia: محكمة طنجة تُدين عصابة خطيرة تنشط في الخطف والاحتجاز
+[2025-04-12 13:06:09.370682] ✅ Enviada noticia: درك بني شيكر يوجه ضربة موجعة لشبكات التهريب ويصادر شحنة ضخمة من الحشيش
+[2025-04-12 13:17:03.852379] ❗ Latido perdido. Forzando salida.
+[2025-04-12 14:37:41.278660] 🟢 Bot de noticias iniciado
+[2025-04-12 14:37:48.864736] ✅ Enviada noticia: إحباط عملية تهريب 64 ألف قرص مخدر من سبتة إلى المغرب
+[2025-04-12 15:48:19.664123] ✅ Enviada noticia: إسبانيا تكشف تزوير عقود ازدياد صادرة عن جماعة أمزميز بالحوز
+[2025-04-12 18:21:16.323521] ✅ Enviada noticia: إحباط محاولة تهريب كمية ضخمة من المخدرات بإقليم الناظور
+[2025-04-12 19:01:04.232259] ✅ Enviada noticia: Pourquoi le voyage des Marocains aux États-Unis peut se transformer en cauchemar
+[2025-04-12 19:10:47.614304] ✅ Enviada noticia: الشرطة القضائية تضرب بقوة.. حجز كوكايين وسيارتين واعتقال مروجين بأزغنغان وتزطوطين
+[2025-04-12 19:32:21.493858] ✅ Enviada noticia: العصبة المغربية تشيد بتدخل أمني ناجح أوقف مروّجي مخدرات بأزغنغان
+[2025-04-12 22:22:27.679743] ⚠️ Error en feed https://telquel.ma/feed/: IncompleteRead(39234 bytes read)
+[2025-04-13 04:00:49.322237] ✅ Enviada noticia: أهم فوائد حبوب الكولاجين على البشرة
+[2025-04-13 04:40:47.323566] ✅ Enviada noticia: توقيف مروج مخدرات في حملة ليلية باكزناية  (فيديو)
+[2025-04-13 08:31:13.045487] ✅ Enviada noticia: إتلاف مخدرات ومؤثرات عقلية
+[2025-04-13 09:10:41.770499] ❗ Latido perdido. Forzando salida.
+[2025-04-13 09:16:12.132235] 🟢 Bot de noticias iniciado
+[2025-04-13 09:26:46.942536] 🟢 Bot de noticias iniciado
+[2025-04-13 11:03:32.627826] 🟢 Bot de noticias iniciado
+[2025-04-13 11:03:35.842821] ✅ Enviada noticia: خبيرة طبية: أعراض حساسية الحيوانات قد تصل إلى مرحلة الخطر
+[2025-04-13 11:03:56.971854] ✅ Enviada noticia: إسبانيا.. تفكيك شبكة لتهريب المهاجرين من المغرب إلى أوروبا
+[2025-04-13 12:47:51.833048] 🟢 Bot de noticias iniciado
+[2025-04-13 12:47:55.891662] ✅ Enviada noticia: À Anvers, 400 millions d'euros confisqués à un Marocain
+[2025-04-13 14:19:30.452703] 🟢 Bot de noticias iniciado
+[2025-04-13 14:19:55.095663] ✅ Enviada noticia: السلطات الإسبانية تكتشف عقد ازدياد مزور صادر عن جماعة مغربية
+[2025-04-13 14:30:26.441187] 🟢 Bot de noticias iniciado
+[2025-04-13 16:15:45.102344] 🟢 Bot de noticias iniciado
+[2025-04-13 17:38:05.369408] 🟢 Bot de noticias iniciado
+[2025-04-13 18:44:22.980939] 🟢 Bot de noticias iniciado
+[2025-04-13 20:51:58.197834] 🟢 Bot de noticias iniciado
+[2025-04-13 20:52:02.570766] ✅ Enviada noticia: L'acteur de Mocro Maffia rattrapé par la justice à Amsterdam
+[2025-04-13 23:19:34.915829] 🟢 Bot de noticias iniciado
+[2025-04-14 05:09:59.432989] 🟢 Bot de noticias iniciado
+[2025-04-14 05:10:39.087655] ✅ Enviada noticia: السجن لمروج كوكايين بالحسيمة
+[2025-04-14 05:10:39.437456] ✅ Enviada noticia: حجز “غاز الهيليوم” بطنجة
+[2025-04-14 09:07:49.110374] 🟢 Bot de noticias iniciado
+[2025-04-14 09:07:58.698459] ✅ Enviada noticia: Drogue venue du Maroc : l'Espagne en alerte
+[2025-04-14 13:40:14.044566] 🟢 Bot de noticias iniciado
+[2025-04-14 13:41:54.653083] ✅ Enviada noticia: وزير الداخلية الفرنسي يشيد بالتعاون المغربي في مكافحة الهجرة السرية
+[2025-04-14 13:41:58.698878] ✅ Enviada noticia: بلجيكا.. حكم على بارون مخدرات هارب وتورط أسماء من أصول مغربية
+[2025-04-14 14:27:25.335361] 🟢 Bot de noticias iniciado
+[2025-04-14 14:27:28.724832] ✅ Enviada noticia: الدرك يحبط تهريب مخدرات بالجديدة
+[2025-04-14 16:02:28.517633] 🟢 Bot de noticias iniciado
+[2025-04-14 19:16:20.516957] 🟢 Bot de noticias iniciado
+[2025-04-14 19:16:21.299376] ⚠️ Bot detenido por señal
+[2025-04-14 19:16:26.086216] 🟢 Bot de noticias iniciado
+[2025-04-14 19:16:31.557824] ✅ Enviada noticia: نشطاء يُطلقون حملة لإيقاف استفحال ظاهرة المخدرات في الريف
+[2025-04-14 19:16:31.937119] ✅ Enviada noticia: الأمن يضع حدًا لنشاط مروج مخدرات بالعرائش
+[2025-04-14 19:16:41.983314] ✅ Enviada noticia: درك سيدي بيبي ينهي نشاط تاجر “حشيش”
+[2025-04-14 19:16:49.947519] ✅ Enviada noticia: من مهربي مخدرات إلى حيازة أسلحة… مطلوبون للعدالة تم توقيفهم في معبر باب سبتة
+[2025-04-14 19:16:51.758262] ✅ Enviada noticia: أمن مراكش يضبط صاحب سوابق قضائية بحوزته كوكايين وشيرا
+[2025-04-14 19:16:52.936488] ✅ Enviada noticia: إسبانيا تشرع في توزيع القاصرين المغاربة غير المصحوبين على الأقاليم
+[2025-04-14 19:16:53.322665] ✅ Enviada noticia: ألمانيا والمغرب يتفقان على ترحيل المهاجرين السريين  نظير تسهيل دخول الكفاءات
+[2025-04-15 12:39:05.015743] 🟢 Bot de noticias iniciado
+[2025-04-15 12:39:32.123914] ✅ Enviada noticia: ترويج “الحشيش” ينتهي بثلاثيني في قبضة أمن مراكش
+[2025-04-15 12:39:32.587679] ✅ Enviada noticia: اخطر ” بزناس” في “باب ايلان” في قبضة أمن مراكش
+[2025-04-15 12:39:33.005653] ✅ Enviada noticia: نقلوا عشرات المغاربة جوا إلى رومانيا.. اعتقال متهمين بالتهجير السري بين المغرب وإسبانيا
+[2025-04-15 16:41:06.721740] 🟢 Bot de noticias iniciado
+[2025-04-15 16:41:11.123371] ✅ Enviada noticia: La France veut accélérer le retour des migrants vers le Maroc
+[2025-04-15 16:41:12.165178] ✅ Enviada noticia: بعد مقال “واشنطن بوست”.. البوليساريو تحاول الهروب إلى الأمام وتقحم المغرب
+[2025-04-15 16:41:30.309806] ✅ Enviada noticia: تفكيك شبكة إجرامية متخصصة في تزوير وثائق التأشيرات بين وجدة وأحفير (صورة)
+[2025-04-15 16:41:35.256542] ✅ Enviada noticia: مطاردة أمنية توقف مغربيا يحوز أسلحة ومخدرات بمليلية
+[2025-04-15 18:01:23.965428] 🟢 Bot de noticias iniciado
+[2025-04-15 18:01:29.535801] ✅ Enviada noticia: إجهاض محاولة تهريب 17 طنا و740 كيلوغراما من مخدر الشيرا
+[2025-04-15 18:07:52.108746] ✅ Enviada noticia: مراكش.. إجهاض محاولة تهريب 17 طنا و740 كيلوغراما من مخدر الشيرا
+[2025-04-15 19:14:34.080929] 🟢 Bot de noticias iniciado
+[2025-04-15 19:14:37.007840] ✅ Enviada noticia: إحباط تهريب أطنان مخدرات بالبحر‬
+[2025-04-15 19:15:00.545808] ✅ Enviada noticia: ضربة استباقية محكمة.. الأمن الوطني والديستي يجهضان محاولة تهريب 17 طنا من الشيرا بسواحل الصويرة
+[2025-04-15 19:15:05.314820] ✅ Enviada noticia: عاجل.. أمن مراكش يجهض محاولة تهريب أزيد من 17 طنا من “الحشيش” عبر الصويرة
+[2025-04-15 19:16:19.130368] ⚠️ Error en feed https://telquel.ma/feed/: Remote end closed connection without response
+[2025-04-15 19:29:33.062935] ⚠️ Error en feed https://lnt.ma/feed: IncompleteRead(7697 bytes read)
+[2025-04-15 20:46:50.902702] 🟢 Bot de noticias iniciado
+[2025-04-15 20:47:01.435037] ✅ Enviada noticia: الشرطة الإسبانية تعتقل زعيم شبكة مخدرات دولية بسبتة ضمن عملية دولية ضخمة
+[2025-04-16 07:20:56.188006] 🟢 Bot de noticias iniciado
+[2025-04-16 07:20:59.324585] ✅ Enviada noticia: حملة تحتج على المخدرات في الريف
+[2025-04-16 07:21:02.231050] ✅ Enviada noticia: توقيف شبكة تزوير وثائق تأشيرات وتنظيم الهجرة غير الشرعية
+[2025-04-16 07:21:27.298176] ✅ Enviada noticia: إحباط تهريب أطنان الحشيش بسواحل الصويرة
+[2025-04-16 07:21:27.651231] ✅ Enviada noticia: أمن وجدة يفكك شبكة لتزوير وثائق الفيزا
+[2025-04-16 07:21:29.386169] ✅ Enviada noticia: القبض على مروج مخدرات روع ساكنة شفشاون
+[2025-04-16 07:21:31.535295] ✅ Enviada noticia: تزوير وثائق ملفات طلب التأشيرة يطيح بخمسة أشخاص بوجدة
+[2025-04-16 07:21:32.620844] ✅ Enviada noticia: بتنسيق مع الديستي.. تفكيك شبكة إجرامية لتزوير وثائق ملفات التأشيرة والهجرة السرية بجهة الشرق
+[2025-04-16 07:21:41.926235] ✅ Enviada noticia: تزوير تركة بالملايير يورط موثقا ورجل أعمال
+[2025-04-16 07:29:50.624936] 🟢 Bot de noticias iniciado
+[2025-04-16 11:11:54.250689] 🟢 Bot de noticias iniciado
+[2025-04-16 11:11:58.447683] ✅ Enviada noticia: En France, la régularisation rendue presque impossible
+[2025-04-16 11:12:20.690337] ✅ Enviada noticia: تقرير برلماني يفضح أوضاع الأحياء الجامعية بالمغرب.. “تحرش مخدرات، وضع أمني هش وبنية تحتية متدهورة”
+[2025-04-16 11:12:21.078735] ✅ Enviada noticia: وجدة.. تفكيك شبكة متورطة في تزوير وثائق التأشيرات
+[2025-04-16 11:12:25.804793] ✅ Enviada noticia: ارتفاع حوادث السير في اكادير يثير القلق.. وفاة صاحب دراجة نارية إثر  اصطدام بسيارة
+[2025-04-16 13:10:14.251256] 🟢 Bot de noticias iniciado
+[2025-04-16 17:38:38.620609] 🟢 Bot de noticias iniciado
+[2025-04-16 17:38:41.709310] ✅ Enviada noticia: قضية "بارونة البوفا" تلامس الحسم
+[2025-04-16 17:39:09.174667] ✅ Enviada noticia: قفزة صادمة في عدد المهاجرين غير النظاميين إلى مليلية.. ارتفاع بنسبة 514% عبر المعبر البري
+[2025-04-16 17:39:09.622454] ✅ Enviada noticia: الحسيمة تطلق أسطولا جديدا لتدبير قطاع النظافة بمجموعة جماعات “نكور – غيس”
+[2025-04-16 17:39:10.078736] ✅ Enviada noticia: مطاردة مثيرة في إسبانيا تنتهي بضبط 400 كيلوغرام من الحشيش قادم من المغرب
+[2025-04-16 20:13:31.172554] 🟢 Bot de noticias iniciado
+[2025-04-16 20:13:49.103525] ✅ Enviada noticia: Trump et Bukele, main dans la main contre l’immigration illégale et le crime organisé
+[2025-04-16 22:02:49.162380] 🟢 Bot de noticias iniciado
+[2025-04-17 10:00:41.836039] 🟢 Bot de noticias iniciado
+[2025-04-17 10:00:49.024992] ✅ Enviada noticia: وزارة الداخلية الإسبانية تكشف أرقام الهجرة غير النظامية إلى سبتة
+[2025-04-17 10:01:25.579858] ✅ Enviada noticia: درك جهوية سطات يشن حملة واسعة ضد الجريمة نواحي بنسليمان
+[2025-04-17 10:01:26.768737] ✅ Enviada noticia: ارتفاع عدد الموقوفين في قضية تهريب مخدرات من مطار الحسيمة إلى 7 أشخاص
+[2025-04-17 14:13:30.202594] 🟢 Bot de noticias iniciado
+[2025-04-17 14:13:31.562072] ⚠️ Bot detenido por señal
+[2025-04-17 14:13:35.964515] 🟢 Bot de noticias iniciado
+[2025-04-17 14:13:38.566838] ✅ Enviada noticia: تهريب الشيرا يورط مواطنا هولنديا
+[2025-04-17 14:13:42.649775] ✅ Enviada noticia: سبتة: إحباط محاولة تهريب كمية مهمة من مخدر “الشيرا”
+[2025-04-17 17:05:58.762384] 🟢 Bot de noticias iniciado
+[2025-04-17 17:06:06.318792] ✅ Enviada noticia: شرطي يتوسط "عصابة مخدرات"
+[2025-04-17 17:06:12.184844] ✅ Enviada noticia: Tanger-Tétouan : un réseau de trafic de drogue démantelé, un policier parmi les suspects
+[2025-04-17 22:57:45.163973] 🟢 Bot de noticias iniciado
+[2025-04-18 11:17:47.977869] 🟢 Bot de noticias iniciado
+[2025-04-18 11:17:50.815124] ✅ Enviada noticia: "حكومة طرابلس" ترحل 6 مغاربة
+[2025-04-18 11:17:51.624904] ✅ Enviada noticia: Bab Sebta : Un Néerlandais arrêté avec de la drogue cachée dans un SUV de luxe
+[2025-04-18 11:18:24.704658] ✅ Enviada noticia: شبكات مخدرات تجند أفارقة جنوب الصحراء
+[2025-04-18 12:18:30.005184] 🟢 Bot de noticias iniciado
+[2025-04-18 12:18:56.336641] ✅ Enviada noticia: المغرب ضمن "لائحة الدول الآمنة".. صدمة للحالمين بطلب اللجوء
+[2025-04-18 16:46:27.414738] 🟢 Bot de noticias iniciado
+[2025-04-18 16:46:32.055189] ✅ Enviada noticia: Belgique : des arrestations après l'attaque à l'explosif ciblant un baron marocain
+[2025-04-18 16:46:52.732641] ✅ Enviada noticia: رياض مزور يعترف: الحكومة وراء إغلاق كرامة روسيكلاج بسبب "ظروف التشغيل السيئة"
+[2025-04-18 16:46:53.201165] ✅ Enviada noticia: ثلاث اعتقالات بهولندا تكشف خيوط تفجيرات مرتبطة بمغاربة في أنفرس
+[2025-04-18 19:14:39.213859] 🟢 Bot de noticias iniciado
+[2025-04-18 19:15:06.011618] ✅ Enviada noticia: حكومة طرابلس ترحّل مهاجرين مغاربة
+[2025-04-18 19:15:07.202149] ✅ Enviada noticia: توقيف هولندي متلبس بمحاولة تهريب شحنة من المخدرات من المغرب
+[2025-04-18 19:27:53.170948] ✅ Enviada noticia: جمارك بني انصار تحبط محاولة تهريب كمية من مخدر الشيرا
+[2025-04-18 19:31:03.682039] ✅ Enviada noticia: الدرك يحبط محاولة تهريب دولي للمخدرات بسيدي رحال الشاطئ
+[2025-04-19 08:18:30.974415] 🟢 Bot de noticias iniciado
+[2025-04-19 08:18:36.239672] ✅ Enviada noticia: Au Maroc, fraude massive de certains promoteurs immobiliers
+[2025-04-19 08:18:38.101527] ✅ Enviada noticia: طنجة.. توقيف قاصر ظهر في فيديو وهو يقود دراجة نارية بطريقة استعراضية خطيرة
+[2025-04-19 08:18:39.104731] ✅ Enviada noticia: توقيف مروج مخدرات يستهدف المؤسسات التعليمية بضواحي تطوان
+[2025-04-19 08:18:56.120631] ✅ Enviada noticia: توقيف مروج مخدرات أمام مؤسسات تعليمية بضواحي تطوان
+[2025-04-19 08:18:57.918913] ✅ Enviada noticia: مطالب بوضع حد لنشاط “البزناس مول الكيشية” ضواحي مراكش
+[2025-04-19 10:51:23.854697] 🟢 Bot de noticias iniciado
+[2025-04-19 10:51:30.315586] ✅ Enviada noticia: حادث سير خطير بمرتيل بسبب السرعة المفرطة
+[2025-04-19 10:51:39.023297] ✅ Enviada noticia: درك الدراركة ينهي نشاط مروج مخدرات
+[2025-04-19 17:18:26.994863] 🟢 Bot de noticias iniciado
+[2025-04-19 17:18:58.118295] ✅ Enviada noticia: قرار توزيع القاصرين المغاربة غير المصحوبين يثير الجدل في مليلية
+[2025-04-19 17:18:58.525279] ✅ Enviada noticia: مغاربة الشمال في حيرة بسبب أنباء إلغاء التأشيرة نحو سبتة ومليلية
+[2025-04-19 23:17:59.697502] 🟢 Bot de noticias iniciado
+[2025-04-19 23:18:04.716032] ✅ Enviada noticia: أمن قلعة السراغنة يستعرض حصيلة حملاته ضد الجرمية
+[2025-04-19 23:18:05.926671] ✅ Enviada noticia: درك تطوان يعتقل مروّج مخدرات يستهدف محيط المدارس
+[2025-04-19 23:18:23.380360] ✅ Enviada noticia: توقيف قاصرين بطنجة على خلفية حركات استعراضية على متن دراجة
+[2025-04-20 09:46:13.425533] 🟢 Bot de noticias iniciado
+[2025-04-20 12:54:28.718423] 🟢 Bot de noticias iniciado
+[2025-04-20 12:54:45.275806] ✅ Enviada noticia: القيادة الإستعراضية تورط مراهقاً
+[2025-04-20 20:44:38.412501] 🟢 Bot de noticias iniciado
+[2025-04-20 20:44:46.423570] ✅ Enviada noticia: درك واد لو يطيح بأحد أخطر مروجي الكوكايين والخمور
+[2025-04-21 14:47:35.413374] 🟢 Bot de noticias iniciado
+[2025-04-21 14:47:45.970608] ✅ Enviada noticia: La Guardia civil maintient ouverte l’enquête sur le tunnel découvert à Sebta
+[2025-04-21 14:48:03.667913] ✅ Enviada noticia: بالڤيديو.. كاميرا مراقبة ترصد كيف تمكن لص من سرقة دراجة نارية بمراكش
+[2025-04-21 14:48:04.026107] ✅ Enviada noticia: شوكولاتة دبي تتسبب في أزمة عالمية!
+[2025-04-21 14:48:05.101924] ✅ Enviada noticia: تسوية استثنائية في إسبانيا.. آلاف المهاجرين المغاربة يحصلون على الإقامة
+[2025-04-21 14:48:05.523688] ✅ Enviada noticia: الملك محمد السادس يعزي في وفاة البابا فرانسوا الأول
+[2025-04-21 17:37:40.341224] ✅ Enviada noticia: استئنافية الحسيمة تقضي بالسجن 20 سنة في قضية احتجز سيدة ومحاولة تصفيتها والسرقة
+[2025-04-21 17:39:37.082811] ✅ Enviada noticia: بالڤيديو: كاميرات المراقبة تفضح سرقة دراجة نارية بطريقة جريئة بمراكش
+[2025-04-21 19:46:52.558207] ✅ Enviada noticia: تبليغ عن خيانة زوجية يقود عناصر الشرطة لاكتشاف وثيقة زواج مزورة
+[2025-04-21 20:07:03.779978] ✅ Enviada noticia: تطوان: دراجة نارية تصدم فتاة وترسلها للمستعجلات في حالة صحية حرجة
+[2025-04-21 20:33:19.794723] ✅ Enviada noticia: ميناء طنجة المدينة.. إحباط عملية تهريب دولي للمخدرات وحجز 32 كيلوغرام من الشيرا
+[2025-04-21 22:11:35.155949] ⚠️ Bot detenido por señal
+[2025-04-21 22:11:43.605226] 🟢 Bot de noticias iniciado
+[2025-04-21 22:20:03.418287] 🟢 Bot de noticias iniciado
+[2025-04-21 22:40:43.616990] ✅ Enviada noticia: وصفة طبية صورية تسقط طبيبا بمستعجلات بني ملال
+[2025-04-22 06:42:03.716988] 🟢 Bot de noticias iniciado
+[2025-04-22 06:42:05.318834] ⚠️ Bot detenido por señal
+[2025-04-22 07:21:03.073276] 🟢 Bot de noticias iniciado
+[2025-04-22 07:21:31.777607] ✅ Enviada noticia: شخص “هائج” يستعين بعصا “بيسبول” لتكسير سيارات بالمدينة العتيقة بمراكش
+[2025-04-22 09:05:44.568631] 🟢 Bot de noticias iniciado
+[2025-04-22 09:06:03.841283] ✅ Enviada noticia: الدار البيضاء.. اعتقال شخص بحوزته 1525 قرص مخدر وتسعة غرامات من الكوكايين
+[2025-04-22 09:07:11.267046] 🟢 Bot de noticias iniciado
+[2025-04-22 09:27:02.665518] 🟢 Bot de noticias iniciado
+[2025-04-22 09:37:22.570400] 🟢 Bot de noticias iniciado
+[2025-04-22 10:15:08.749918] 🟢 Bot de noticias iniciado
+[2025-04-22 11:34:12.059165] 🟢 Bot de noticias iniciado
+[2025-04-22 11:39:12.717280] ❗ Latido perdido. Forzando salida.
+[2025-04-22 11:39:51.922970] 🟢 Bot de noticias iniciado
+[2025-04-22 12:32:45.239649] 🟢 Bot de noticias iniciado
+[2025-04-22 12:33:14.126046] ✅ Enviada noticia: تفكيك شبكة مغربية لتزوير وثائق الإقامة بمليلية.. تورط محامين وعقود وهمية
+[2025-04-22 12:50:13.575093] 🟢 Bot de noticias iniciado
+[2025-04-22 13:06:28.552254] ⚠️ Bot detenido por señal
+[2025-04-22 13:06:33.520670] 🟢 Bot de noticias iniciado
+[2025-04-22 13:06:33.520825] ❌ Error general al enviar mensaje: name 'CHAT_IDS' is not defined
+[2025-04-22 13:14:50.310021] ❌ Error general al enviar mensaje: name 'CHAT_IDS' is not defined
+[2025-04-22 13:14:50.313475] ⚠️ Bot detenido por señal
+[2025-04-22 13:14:50.313785] ❌ Error general al enviar mensaje: name 'CHAT_IDS' is not defined
+[2025-04-22 13:17:58.672968] 🟢 Bot de noticias iniciado
+[2025-04-22 13:19:52.086896] ⚠️ Bot detenido por señal
+[2025-04-22 13:19:58.319807] 🟢 Bot de noticias iniciado
+[2025-04-22 13:24:09.381754] ⚠️ Bot detenido por señal
+[2025-04-22 13:49:01.178571] ✅ Enviada noticia: حيتان الأوركا تهاجم قاربًا شراعيًا بين طنجة وطريفة
+[2025-04-22 16:01:45.878977] ⚠️ Bot detenido por señal
+[2025-04-22 16:02:26.746939] 🟢 Bot de noticias iniciado
+[2025-04-22 16:02:32.944910] ✅ Enviada noticia: La prefecture des Hauts-de-Seine complique la vie des étrangers
+[2025-04-22 18:15:51.964321] 🟢 Bot de noticias iniciado
+[2025-04-22 21:59:43.195813] 🟢 Bot de noticias iniciado
+[2025-04-22 21:59:49.096060] ✅ Enviada noticia: Maroc : une plainte pour adultère fait tomber un réseau de faux mariages
+[2025-04-23 06:38:59.874128] 🟢 Bot de noticias iniciado
+[2025-04-23 06:39:08.414539] ✅ Enviada noticia: هجوم لحيتان الأوركا على قارب شراعي بمضيق جبل طارق
+[2025-04-23 06:39:29.697646] ✅ Enviada noticia: عاجل..اعتقال صاحب دراجة نارية حاول دهس شرطي كان يشارك في حملة أمنية بمراكش
+[2025-04-23 06:39:30.524370] ✅ Enviada noticia: دراجة نارية “إن درايف” تتسبب في حادث يُسفر عن إصابة سائحة أجنبية بمراكش
+[2025-04-23 06:39:32.076740] ✅ Enviada noticia: اعتقال إطار في جماعة العدل والإحسان متورط في شبكة لتزوير وثائق للهجرة السرية بوجدة
+[2025-04-23 06:39:32.958917] ✅ Enviada noticia: اعتقال 5 أشخاص في مليلية بسبب التلاعب في "شواهد السكنى" لتسوية وضعية مهاجرين مغاربة
+[2025-04-23 09:19:25.846641] 🟢 Bot de noticias iniciado
+[2025-04-23 09:20:35.448170] ✅ Enviada noticia: تسليم وصفات طبية لـ”بزناس” يطيح بطبيب
+[2025-04-23 12:25:40.453820] 🟢 Bot de noticias iniciado
+[2025-04-23 12:40:01.856441] ⚠️ Error en feed https://albayane.press.ma/feed: Remote end closed connection without response
+[2025-04-23 13:58:44.287527] 🟢 Bot de noticias iniciado
+[2025-04-23 13:58:49.580257] ✅ Enviada noticia: Extrême droite : des Marocains piégés par des vidéos sur TikTok
+[2025-04-23 16:41:04.035665] 🟢 Bot de noticias iniciado
+[2025-04-23 16:41:08.727991] ✅ Enviada noticia: أمن العيون الشرقية يحجز ممنوعات
+[2025-04-23 18:24:11.206010] 🟢 Bot de noticias iniciado
+[2025-04-23 18:24:35.802610] 🟢 Bot de noticias iniciado
+[2025-04-23 18:24:56.444535] ⚠️ Bot detenido por señal
+[2025-04-23 18:25:01.472210] 🟢 Bot de noticias iniciado
+[2025-04-23 18:25:23.694748] ✅ Enviada noticia: كاتب مجلس جهة فاس يغادر المغرب قبل صدور أمر باعتقاله في قضية التهريب الدولي للمخدرات
+[2025-04-23 18:28:02.213322] ❗ Latido perdido. Forzando salida.
+[2025-04-23 18:29:02.991786] 🟢 Bot de noticias iniciado
+[2025-04-23 18:29:28.868387] ✅ Enviada noticia: كاتب مجلس جهة فاس يغادر المغرب قبل صدور أمر باعتقاله في قضية التهريب الدولي للمخدرات
+[2025-04-23 18:32:03.708207] ❗ Latido perdido. Forzando salida.
+[2025-04-23 18:32:31.553782] 🟢 Bot de noticias iniciado
+[2025-04-23 18:35:32.416985] ❗ Latido perdido. Forzando salida.
+[2025-04-23 18:39:06.039835] 🟢 Bot de noticias iniciado
+[2025-04-23 18:42:06.810309] ❗ Latido perdido. Forzando salida.
+[2025-04-23 18:42:10.894992] 🟢 Bot de noticias iniciado
+[2025-04-23 21:03:39.135279] 🟢 Bot de noticias iniciado
+[2025-04-23 21:03:46.967485] ✅ Enviada noticia: إسبانيا تُجهض عملية دعم لوجستي لتهريب الحشيش قادمة من شمال المغرب
+[2025-04-23 21:06:39.841025] ❗ Latido perdido. Forzando salida.
+[2025-04-23 21:06:58.772577] 🟢 Bot de noticias iniciado
+[2025-04-23 21:07:24.274184] ✅ Enviada noticia: موقفين ومحجوزات..عناصر الدرك الملكي تداهم فيلا مهجورة وتحبط محاولة للهجرة السرية بأركمان
+[2025-04-23 21:20:02.087028] 🟢 Bot de noticias iniciado
+[2025-04-23 21:20:33.531733] ✅ Enviada noticia: الدرك الملكي يداهم فيلا مهجورة ويحبط محاولة للهجرة السرية بأركمان
+[2025-04-23 21:23:02.796345] ❗ Latido perdido. Forzando salida.
+[2025-04-23 22:37:27.320399] 🟢 Bot de noticias iniciado
+[2025-04-23 22:40:28.016588] ❗ Latido perdido. Forzando salida.
+[2025-04-23 22:46:02.143187] 🟢 Bot de noticias iniciado
+[2025-04-23 23:05:28.860303] ⚠️ Bot detenido por señal
+[2025-04-23 23:14:11.714374] 🟢 Bot de noticias iniciado
+[2025-04-23 23:14:14.840885] ⚠️ Error en feed https://www.hespress.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:15.936154] ⚠️ Error en feed https://www.yabiladi.com/rss/news.xml: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:17.237493] ⚠️ Error en feed https://www.bladi.net/spip.php?page=backend: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:19.255039] ⚠️ Error en feed https://bladna24.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:20.761181] ⚠️ Error en feed https://tanjanews.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:22.213515] ⚠️ Error en feed https://presstetouan.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:25.246226] ⚠️ Error en feed https://telquel.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:29.683422] ⚠️ Error en feed https://aujourdhui.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:31.455470] ⚠️ Error en feed https://www.chtoukapress.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:34.396615] ⚠️ Error en feed https://lnt.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:35.479278] ⚠️ Error en feed https://alaoual.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:37.109012] ⚠️ Error en feed https://lereporter.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:38.129090] ⚠️ Error en feed https://medias24.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:39.996633] ⚠️ Error en feed https://www.barlamane.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:41.306081] ⚠️ Error en feed https://www.rue20.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:42.932181] ⚠️ Error en feed https://www.assahifa.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:44.050232] ⚠️ Error en feed https://alyaoum24.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:45.007457] ⚠️ Error en feed https://www.moroccoworldnews.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:46.725008] ⚠️ Error en feed https://kech24.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:48.174255] ⚠️ Error en feed https://www.nadorcity.com/xml/syndication.rss: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:48.856172] ❌ Error al enviar a -1002681283803: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 24","parameters":{"retry_after":24}}
+[2025-04-23 23:14:51.517207] ⚠️ Error en feed https://www.lavieeco.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:52.233103] ❌ Error al enviar a -1002681283803: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 20","parameters":{"retry_after":20}}
+[2025-04-23 23:14:58.829582] ⚠️ Error en feed http://assabah.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:14:59.522025] ❌ Error al enviar a -1002681283803: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 13","parameters":{"retry_after":13}}
+[2025-04-23 23:18:12.530172] ❗ Latido perdido. Forzando salida.
+[2025-04-23 23:20:01.661769] ⚠️ Error en feed https://www.hespress.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:02.968260] ⚠️ Error en feed https://www.yabiladi.com/rss/news.xml: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:04.346532] ⚠️ Error en feed https://www.bladi.net/spip.php?page=backend: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:06.351020] ⚠️ Error en feed https://bladna24.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:07.957017] ⚠️ Error en feed https://tanjanews.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:09.281381] ⚠️ Error en feed https://presstetouan.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:13.134478] ⚠️ Error en feed https://telquel.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:28.055843] ⚠️ Error en feed https://aujourdhui.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:29.780527] ⚠️ Error en feed https://www.chtoukapress.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:32.455726] ⚠️ Error en feed https://lnt.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:33.482571] ⚠️ Error en feed https://alaoual.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:34.772839] ⚠️ Error en feed https://lereporter.ma/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:35.811866] ⚠️ Error en feed https://medias24.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:37.556222] ⚠️ Error en feed https://www.barlamane.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:38.865629] ⚠️ Error en feed https://www.rue20.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:40.491639] ⚠️ Error en feed https://www.assahifa.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:41.564228] ⚠️ Error en feed https://alyaoum24.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:43.483030] ⚠️ Error en feed https://www.moroccoworldnews.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:45.224574] ⚠️ Error en feed https://kech24.com/feed: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:46.652262] ⚠️ Error en feed https://www.nadorcity.com/xml/syndication.rss: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:50.649796] ⚠️ Error en feed https://www.lavieeco.com/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:20:51.328797] ❌ Error al enviar a -1002681283803: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 11","parameters":{"retry_after":11}}
+[2025-04-23 23:20:57.715029] ⚠️ Error en feed http://assabah.ma/feed/: cannot unpack non-iterable ellipsis object
+[2025-04-23 23:22:18.545616] ⚠️ Bot detenido por señal
+[2025-04-23 23:22:19.224750] ⚠️ Bot desconectado (bloque finally)
+[2025-04-23 23:22:27.098352] 🟢 Bot de noticias iniciado
+[2025-04-23 23:26:27.784572] ❗ Latido perdido. Forzando salida.
+[2025-04-23 23:28:41.831109] 🟢 Bot de noticias iniciado
+[2025-04-23 23:29:39.451088] ⚠️ Bot detenido por señal
+[2025-04-23 23:29:40.140495] ⚠️ Bot desconectado (bloque finally)
+[2025-04-23 23:29:46.828225] 🟢 Bot de noticias iniciado
+[2025-04-23 23:33:47.570582] ❗ Latido perdido. Forzando salida.
+[2025-04-23 23:35:42.768850] 🟢 Bot de noticias iniciado
+[2025-04-23 23:39:43.456507] ❗ Latido perdido. Forzando salida.
+[2025-04-23 23:52:30.662611] 🟢 Bot de noticias iniciado
+[2025-04-23 23:56:31.338073] ❗ Latido perdido. Forzando salida.
+[2025-04-24 06:04:00.934789] ✅ Enviada noticia: A Bruxelles, le ras-le-bol des commerçants de la rue de Brabant
+[2025-04-24 08:14:31.802607] 🟢 Bot de noticias iniciado
+[2025-04-24 08:18:32.491743] ❗ Latido perdido. Forzando salida.
+[2025-04-24 09:32:33.475086] 🟢 Bot de noticias iniciado
+[2025-04-24 09:36:34.243827] ❗ Latido perdido. Forzando salida.
+[2025-04-24 12:01:43.192715] 🟢 Bot de noticias iniciado
+[2025-04-24 12:01:49.343766] ✅ Enviada noticia: Quarante Marocains libérés des prisons algériennes et conduits à la frontière
+[2025-04-24 12:01:57.719137] ✅ Enviada noticia: Cinq arrestations dans  une affaire de faux et usage  de faux à Oujda
+[2025-04-24 18:17:58.905827] 🟢 Bot de noticias iniciado
+[2025-04-24 18:18:26.463680] ✅ Enviada noticia: احباط عملية تهريب 11 ألف وحدة من المفرقعات والشهب النارية
+[2025-04-24 19:24:37.748044] 🟢 Bot de noticias iniciado
+[2025-04-24 19:24:43.716975] ✅ Enviada noticia: La Mocro maffia inquiète le Luxembourg
+[2025-04-24 19:56:00.502895] 🟢 Bot de noticias iniciado
+[2025-04-24 20:00:01.250867] ❗ Latido perdido. Forzando salida.
+[2025-04-24 20:01:41.789447] ✅ Enviada noticia: استغلال مغاربة في شبكة تزوير شهادات لتسهيل الإقامة مقابل المال في سبتة
+[2025-04-24 20:34:01.814425] 🟢 Bot de noticias iniciado
+[2025-04-24 20:38:02.526318] ❗ Latido perdido. Forzando salida.
+[2025-04-24 20:49:30.449137] ⚠️ Bot detenido por señal
+[2025-04-24 20:49:31.141782] ⚠️ Bot desconectado (bloque finally)
+[2025-04-24 20:49:36.388858] 🟢 Bot de noticias iniciado
+[2025-04-24 21:36:42.804815] 🟢 Bot de noticias iniciado
+[2025-04-24 22:02:11.508791] ✅ Enviada noticia: درك أركمان يعتقل متورطيين في شبكة للهجرة السرية
+[2025-04-25 06:47:34.047264] 🟢 Bot de noticias iniciado
+[2025-04-25 06:47:57.866142] ✅ Enviada noticia: بمناسبة اليوم العالمي للام.. تتويج المستفيدين المتفوقين في مركز طب الادمان بمراكش + ڤيديو
+[2025-04-25 10:40:57.598992] 🟢 Bot de noticias iniciado
+[2025-04-25 11:24:55.139837] 🟢 Bot de noticias iniciado
+[2025-04-25 13:31:05.027714] 🟢 Bot de noticias iniciado
+[2025-04-25 13:31:38.381503] ✅ Enviada noticia: كشـ24 تكشف تفاصيل جديدة في قضية شحنة الكوكايين داخل شاحنة بالبيضاء
+[2025-04-25 13:31:39.129358] ✅ Enviada noticia: حجز مخدرات وبندقية وخراطيش بآسفي
+[2025-04-25 13:31:40.840444] ✅ Enviada noticia: غرفة الجنايات بالناظور توزع 40 سنة سجنا على متورطين في قضايا خطيرة من بينها محاولة القتل والاغتصاب والاتجار بالبشر
+[2025-04-25 13:31:41.692647] ✅ Enviada noticia: تفكيك شبكة تستغل مغاربة في تزوير شهادات لتسهيل الإقامة في المدينة المحتلة
+[2025-04-25 13:43:02.488374] 🟢 Bot de noticias iniciado
+[2025-04-25 15:19:38.151147] 🟢 Bot de noticias iniciado
+[2025-04-25 15:19:45.306731] ✅ Enviada noticia: الرصاص يوقف مروج مخدرات خطير بجرادة
+[2025-04-25 15:20:15.655500] ✅ Enviada noticia: فرنسا تسلم السلطات الإسبانية مغربيا قتل 3 مزارعين بنافارا
+[2025-04-25 16:07:24.666959] 🟢 Bot de noticias iniciado
+[2025-04-25 16:07:50.807392] ✅ Enviada noticia: الشرطة تطلق رصاصات في جرادة لتوقيف مروج مخدرات يستعمل كلابا شرسة
+[2025-04-25 18:08:22.869253] 🟢 Bot de noticias iniciado
+[2025-04-26 06:51:27.991441] 🟢 Bot de noticias iniciado
+[2025-04-26 06:51:32.018350] ✅ Enviada noticia: ممنوعات توقف 7 أشخاص بتزنيت
+[2025-04-26 06:51:34.717289] ✅ Enviada noticia: Drogue à Bruxelles : des mineurs marocains enrôlés sur Telegram et WhatsApp
+[2025-04-26 06:51:37.736401] ✅ Enviada noticia: طنجة.. إصابة خطيرة لسائق دراجة نارية في حادث اصطدام مع سيارة
+[2025-04-26 06:51:51.443360] ✅ Enviada noticia: باحثون: “الإقلاع عن السجائر الإلكترونية ممكن بفضل حبوب التوقف عن التدخين”
+[2025-04-26 07:31:31.082133] ✅ Enviada noticia: Sept dépouilles de Marocains attendent en Algérie : l'alerte d'une ONG
+[2025-04-26 09:47:40.062987] 🟢 Bot de noticias iniciado
+[2025-04-26 09:48:01.875539] ✅ Enviada noticia: فعاليات ترصد انتشار « البوفا » والمخدرات المذابة في مدن سوس (فيديو)
+[2025-04-26 16:46:39.394355] 🟢 Bot de noticias iniciado
+[2025-04-26 16:46:48.858354] ✅ Enviada noticia: حرس سبتة يُحبط محاولة تهريب 400 كيلوغرام من الحشيش عبر الميناء
+[2025-04-26 16:47:06.796157] ✅ Enviada noticia: السلطات الجزائرية تواصل احتجاز جثامين شباب مغاربة لفظهم البحر أثناء محاولة "الهجرة السرية"..  وعائلاتهم تراسل السلطات الجزائرية دون جدوى
+[2025-04-26 16:47:10.047583] ✅ Enviada noticia: ايقاف شابين متلبسين بحيازة صاعق كهربائي بمراكش
+[2025-04-26 16:47:11.651751] ✅ Enviada noticia: هولندا تقرر تمديد مراقبة حدودها مع بلجيكا وألمانيا للتصدي للهجرة
+[2025-04-26 16:47:12.445255] ✅ Enviada noticia: تصفية حسابات للسيطرة على "موانئ المخدرات" ببني شيكر.. والدرك يفتح تحقيقات معمقة
+[2025-04-26 17:11:24.778275] 🟢 Bot de noticias iniciado
+[2025-04-26 17:11:49.218792] ✅ Enviada noticia: اصابة شابة جراء حادثة سير بمراكش + صور
+[2025-04-26 18:21:38.111426] 🟢 Bot de noticias iniciado
+[2025-04-26 18:21:45.335845] ✅ Enviada noticia: إحباط تهريب 400 كيلوغرام من المخدرات بسبتة
+[2025-04-26 18:22:04.494283] ✅ Enviada noticia: مايوركا.. مهاجر مغربي ينفذ أربع عمليات سطو فور إطلاق سراحه
+[2025-04-26 20:53:58.962817] 🟢 Bot de noticias iniciado
+[2025-04-26 20:54:04.290324] ✅ Enviada noticia: Tindouf : Affrontements armés entre gangs de trafic de drogue
+[2025-04-26 20:54:05.771076] ✅ Enviada noticia: Affaire Escobar du désert : Naciri veut faire comparaître Latifa Raâfat
+[2025-04-26 20:54:09.552204] ✅ Enviada noticia: الحرس المدني بسبتة يحبط محاولة تهريب أزيد من 400 كيلوغرام من الحشيش نحو إسبانيا
+[2025-04-26 22:11:19.038379] 🟢 Bot de noticias iniciado
+[2025-04-26 22:11:24.456280] ✅ Enviada noticia: Maroc : un élu en fuite après un scandale de drogue ?
+[2025-04-26 22:11:43.864150] ✅ Enviada noticia: وفاة شاب عشريني في حادثة سير هزت سيدي المختار بإقليم شيشاوة
+[2025-04-26 22:17:54.185079] ✅ Enviada noticia: الشرطة المغربية تضبط شحنة ضخمة من الكوكايين داخل شاحنة قادمة أمريكا الجنوبية
+[2025-04-26 22:59:34.050666] 🟢 Bot de noticias iniciado
+[2025-04-26 22:59:59.352665] ✅ Enviada noticia: الشرطة المغربية تضبط شحنة ضخمة من الكوكايين داخل شاحنة قادمة من أمريكا الجنوبية
+[2025-04-26 23:18:13.357843] 🟢 Bot de noticias iniciado
+[2025-04-27 08:29:32.810761] 🟢 Bot de noticias iniciado
+[2025-04-27 08:29:36.979532] ✅ Enviada noticia: بوقنطار يفتحص "تسوية محتملة" لنزاع الصحراء.. توجه إيجابي وحسم أممي
+[2025-04-27 11:14:54.461076] 🟢 Bot de noticias iniciado
+[2025-04-27 13:17:12.522462] 🟢 Bot de noticias iniciado
+[2025-04-27 13:17:17.634906] ✅ Enviada noticia: À 70 ans, stoppé net avec 600 kg de haschich marocain
+[2025-04-27 15:31:15.048723] ⚠️ Error en feed https://bladna24.ma/feed/: IncompleteRead(10 bytes read)
+[2025-04-27 17:31:50.902529] 🟢 Bot de noticias iniciado
+[2025-04-27 20:40:13.763490] 🟢 Bot de noticias iniciado
+[2025-04-27 20:40:18.883231] ✅ Enviada noticia: La police le croyait au Maroc, le caïd "Freaks" tombe à Anvers
+[2025-04-27 20:40:22.763146] ✅ Enviada noticia: تفاصيل جديدة حول عملية حجز أزيد من نصف طن من الحشيش بميناء سبتة
+[2025-04-27 20:40:40.314704] ✅ Enviada noticia: بسب وضعهم غير القانوني.. جزائريون يلجأون إلى الوثائق المزورة للبقاء فوق الأراضي الفرنسية
+[2025-04-27 20:40:43.628882] ✅ Enviada noticia: الدرك الملكي يتمكن من إنقاذ سائح وسط الجبال بعد نداء استغاثة
+[2025-04-28 06:43:01.023211] 🟢 Bot de noticias iniciado
+[2025-04-28 06:43:40.508084] ✅ Enviada noticia: تفكيك شبكة يفضح مخدرا جديدا
+[2025-04-28 08:20:07.683042] 🟢 Bot de noticias iniciado
+[2025-04-28 08:20:07.683784] 🟢 Bot de noticias iniciado
+[2025-04-28 09:56:04.741387] 🟢 Bot de noticias iniciado
+[2025-04-28 09:56:29.382431] ✅ Enviada noticia: العثور على جثة راكب دراجة نارية على قارعة الطريق بالدارالبيضاء
+[2025-04-28 20:00:01.644838] 🟢 Bot de noticias iniciado
+[2025-04-28 20:00:06.707801] ✅ Enviada noticia: Tunnel de drogue à Ceuta : Les autorités espagnoles scellent le passage
+[2025-04-28 20:00:08.333315] ✅ Enviada noticia: Cri de détresse d'un Marocain en prison en France
+[2025-04-28 20:00:15.408227] ✅ Enviada noticia: Livre jeunesse : “Les Intrépides-Lwa3rat”, à chacune son héroïne
+[2025-04-28 22:55:26.091362] 🟢 Bot de noticias iniciado
+[2025-04-29 08:39:57.636366] 🟢 Bot de noticias iniciado
+[2025-04-29 08:40:03.347713] ✅ Enviada noticia: Des MRE arrêtés avec des devises en Espagne
+[2025-04-29 08:40:34.836844] ✅ Enviada noticia: أخبـار الصبـاح
+[2025-04-29 09:01:31.569684] ✅ Enviada noticia: إحباط محاولة اغراق مراكش بكمية مهمة من “الحشيش”
+[2025-04-29 09:40:20.774486] ✅ Enviada noticia: بما فيها الكوكايين والماريخوانا.. تفكيك عصابة وحجز كمية مهمة من المخدرات بمراكش
+[2025-04-29 14:02:49.364920] ⚠️ Error en feed https://kech24.com/feed: IncompleteRead(13826 bytes read)
+[2025-04-29 14:36:06.126132] ✅ Enviada noticia: تهريب الحشيش من سبتة يُطيح بثلاثة أشخاص في ماربيا
+[2025-04-29 14:42:37.555476] ✅ Enviada noticia: جانحان يسلبان أغراض سائحة بمراكش ومطالب بتعزيز التواجد الأمني
+[2025-04-29 15:02:58.344309] ❗ Latido perdido. Forzando salida.
+[2025-04-29 15:21:58.692978] 🟢 Bot de noticias iniciado
+[2025-04-29 17:39:16.528463] 🟢 Bot de noticias iniciado
+[2025-04-29 17:39:38.170666] ✅ Enviada noticia: إلغاء تجريم الشيك بين الأزواج و “البراسلي”.. هذه أبرز التغييرات في قانون الشيكات
+[2025-04-29 17:39:44.005581] ✅ Enviada noticia: تفكيك شبكة إجرامية متخصصة في تزوير وثائق شركات ومقاولات وهمية ومعاملات مالية مشبوهة
+[2025-04-29 20:22:02.522190] 🟢 Bot de noticias iniciado
+[2025-04-29 20:22:06.531423] ✅ Enviada noticia: الفرقة الوطنية للجمارك تلاحق كبار مهربي التوابل إلى أسواق المغرب
+[2025-04-29 20:22:31.602788] ✅ Enviada noticia: شبكة الشركات الوهمية التي سقطت بفاس زورت أكثر من 100 ألف فاتورة
+[2025-04-29 20:22:32.384649] ✅ Enviada noticia: مخدرات وسُكْر وسرقة.. اعتقالات في حملة أمنية بمراكش
+[2025-04-30 08:05:13.912918] 🟢 Bot de noticias iniciado
+[2025-04-30 08:05:35.903224] ✅ Enviada noticia: إحراق 19 طنا من المخدرات و652 قرصا مهلوسا كانت محجوزة لدى الجمارك بأسفي
+[2025-04-30 08:05:38.825886] ✅ Enviada noticia: صور تكشف تطور مشروع تصنيع فرقاطة مغربية بإسبانيا
+[2025-04-30 08:05:51.782848] ✅ Enviada noticia: مروج مخدرات في قبضة الدرك
+[2025-04-30 08:05:52.535873] ✅ Enviada noticia: عقد يورط متهمين بالسطو على عقار
+[2025-04-30 11:12:16.348419] 🟢 Bot de noticias iniciado
+[2025-04-30 11:12:31.095011] ✅ Enviada noticia: توقيف إفريقيان متلبسان بحيازة 120 صفيحة حشيش
+[2025-04-30 11:12:37.609379] ✅ Enviada noticia: إدانة رئيس جماعة وجدة بسنة حبساً في قضية تزوير
+[2025-04-30 11:12:42.324947] ✅ Enviada noticia: حملة امنية جديدة تستهدف اصحاب الدراجات النارية بمراكش + صور
+[2025-04-30 11:12:44.943466] ✅ Enviada noticia: قام بتزوير وفاته..  الرباط تسجن مغربيا هاربا بتهمة قتل في فرنسا
+[2025-04-30 14:53:45.668691] 🟢 Bot de noticias iniciado
+[2025-04-30 14:53:57.216570] ✅ Enviada noticia: En France, un camion immatriculé au Maroc transportait plus de 9 tonnes de résine de cannabis
+[2025-04-30 14:54:34.633327] ✅ Enviada noticia: حاول السباحة إلى الثغر المحتل.. العثور على جثة مهاجر جزائري لفظه البحر
+[2025-04-30 14:54:35.404982] ✅ Enviada noticia: وجدة.. إدانة رئيس الجماعة بسنة في قضية تزوير
+[2025-04-30 16:00:54.924895] ✅ Enviada noticia: El Ballouti : cette famille marocaine « du milieu » qui fait trembler la Belgique
+[2025-04-30 17:22:17.832593] ✅ Enviada noticia: بعد مقال “كشـ24”.. تدخل أمني ينهي فوضى الدراجات النارية بالقنارية + صور
+[2025-04-30 17:47:25.402810] ✅ Enviada noticia: القضاء يوزع 24 سنة سجناً على متهمين في ملف اختطاف واحتجاز  تاجر مخدرات
+[2025-04-30 17:51:50.947668] ⚠️ Error en feed https://alaoual.com/feed: Remote end closed connection without response
+[2025-05-01 08:43:59.619279] 🟢 Bot de noticias iniciado
+[2025-05-01 08:44:05.479923] ✅ Enviada noticia: Un camion marocain intercepté avec neuf tonnes de cannabis près de Lyon
+[2025-05-01 08:44:24.938050] ✅ Enviada noticia: أزيد من 72 ألف ضحية للهجرة غير النظامية منذ 2014
+[2025-05-01 12:15:53.760896] 🟢 Bot de noticias iniciado
+[2025-05-01 12:16:19.510051] ✅ Enviada noticia: معلومات “الديستي” بفاس تطيح بشخص في حالة تلبس بحيازة وترويج المخدرات الصلبة
