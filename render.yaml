@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: bot-noticias
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python main.py"
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        value: TU_TOKEN_AQUI
+      - key: CHANNEL_ID
+        value: TU_CANAL_ID_AQUI
