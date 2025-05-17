@@ -98,13 +98,7 @@ RSS_FEEDS = [
     "https://www.lavieeco.com/feed/",
     "http://www.leconomiste.com/categorie/economie/feed",
     "http://www.almassae.press.ma/rss",
-    "http://assabah.ma/feed/",
-    "https://almolahidjournal.com/feed/",
-    "https://marrakechalaan.com/feed/",
-    "https://fr.hibapress.com/feed/", 
-    "https://sabahagadir.ma/feed/",
-    "https://anbaarrakech.com/feed/",
-    
+    "http://assabah.ma/feed/"
 ]
 
 # === FUNCIONES UTILITARIAS ===
@@ -159,11 +153,6 @@ def revisar_rss():
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-
-            if not hasattr(feed, "entries") or not feed.entries:
-                log_event(f"⚠️ Feed sin entradas o inválido: {url}")
-                continue
-
             for entry in feed.entries:
                 link = entry.get("link", "")
                 title = entry.get("title", "")
@@ -190,10 +179,8 @@ def revisar_rss():
                     log_event(f"✅ Enviada noticia: {title}")
 
         except Exception as e:
-            log_event(f"❌ Error al procesar feed {url}:\n{e}")
-            enviar_telegram(f"❌ Error al procesar feed:\n{url}\n{e}")
-            continue
-
+            log_event(f"⚠️ Error en feed {url}: {e}")
+            enviar_telegram(f"⚠️ Error en feed: {url}\n{e}")
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
