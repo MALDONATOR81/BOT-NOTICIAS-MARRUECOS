@@ -159,6 +159,11 @@ def revisar_rss():
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
+
+            if not hasattr(feed, "entries") or not feed.entries:
+                log_event(f"⚠️ Feed sin entradas o inválido: {url}")
+                continue
+
             for entry in feed.entries:
                 link = entry.get("link", "")
                 title = entry.get("title", "")
@@ -185,8 +190,10 @@ def revisar_rss():
                     log_event(f"✅ Enviada noticia: {title}")
 
         except Exception as e:
-            log_event(f"⚠️ Error en feed {url}: {e}")
-            enviar_telegram(f"⚠️ Error en feed: {url}\n{e}")
+            log_event(f"❌ Error al procesar feed {url}:\n{e}")
+            enviar_telegram(f"❌ Error al procesar feed:\n{url}\n{e}")
+            continue
+
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
