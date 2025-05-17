@@ -99,6 +99,11 @@ RSS_FEEDS = [
     "http://www.leconomiste.com/categorie/economie/feed",
     "http://www.almassae.press.ma/rss",
     "http://assabah.ma/feed/"
+    "https://almolahidjournal.com/feed/",
+    "https://marrakechalaan.com/feed/",
+    "https://fr.hibapress.com/feed/", 
+    "https://sabahagadir.ma/feed/",
+    "https://anbaarrakech.com/feed/",
 ]
 
 # === FUNCIONES UTILITARIAS ===
