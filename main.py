@@ -8,6 +8,7 @@ import os
 import signal
 import sys
 from datetime import datetime
+import traceback
 
 # === LATIDO DEL BOT (Monitor anti-cuelgue) ===
 ultimo_latido = time.time()
@@ -15,7 +16,10 @@ ultimo_latido = time.time()
 def monitor_actividad():
     while True:
         if time.time() - ultimo_latido > 180:
-            enviar_telegram("⚠️ El bot dejó de latir. Posible cuelgue o apagado inesperado.")
+            try:
+                enviar_telegram("⚠️ El bot dejó de latir. Posible cuelgue o apagado inesperado.")
+            except:
+                pass
             log_event("❗ Latido perdido. Forzando salida.")
             os._exit(1)
         time.sleep(60)
@@ -25,6 +29,7 @@ Thread(target=monitor_actividad, daemon=True).start()
 # === CONFIGURACIÓN ===
 TELEGRAM_TOKEN = '7878852704:AAEHZclqxGxFclcVgwRD2gsIKpCtVrZpEIs'
 CHAT_IDS = ['396759277', '-1002681283803']
+
 HISTORIAL_FILE = "notificados.txt"
 LOG_FILE = "registro.log"
 ULTIMO_RESUMEN_FILE = "ultimo_resumen.txt"
@@ -39,6 +44,7 @@ GENERAL_KEYWORDS = [
     "saltos de valla", "vehículo robado", "vehículos robados", "coche robado", "coches robados",
     "moto robada", "motos robadas", "matrícula falsa", "matrículas falsas", "matrículas duplicadas",
     "documento falso", "documentación falsa", "papeles falsos", "falsificación", "fraude documental",
+
     "trafic de drogue", "drogue", "drogues", "cocaïne", "hachisch", "héroïne", "psychotropes",
     "hallucinogènes", "stupéfiants", "substances illicites", "ecstasy", "lsd", "mdma", "kétamine",
     "contrebande", "tabac de contrebande", "cigarettes", "marchandises illégales", "immigration illégale",
@@ -46,22 +52,29 @@ GENERAL_KEYWORDS = [
     "franchissement illégal", "véhicule volé", "véhicules volés", "voiture volée", "voitures volées",
     "moto volée", "motos volées", "plaque falsifiée", "plaques falsifiées", "plaque dupliquée",
     "plaques dupliquées", "faux documents", "falsification de documents", "fraude documentaire",
+
     "مخدرات", "مخدر", "كوكايين", "حشيش", "هيروين", "حبوب مهلوسة", "مؤثرات عقلية", "حبوب",
     "مواد مخدرة", "أقراص مخدرة", "أقراص مهلوسة", "التهريب", "السجائر المهربة", "سجائر مهربة",
     "تبغ مهرب", "بضائع مهربة", "ممنوعات", "الهجرة السرية", "الهجرة غير الشرعية", "الهجرة غير النظامية",
     "مهاجرين سريين", "قارب", "قوارب الموت", "مهاجرين غير شرعيين", "سيارة مسروقة", "سيارات مسروقة",
     "مركبة مسروقة", "مركبات مسروقة", "دراجة نارية مسروقة", "دراجات نارية مسروقة", "لوحة مزورة",
-    "لوحات مزورة", "وثائق مزورة", "تزوير الوثائق", "تزوير"
+    "لوحات مزورة", "وثائق مزورة", "تزوير الوثائق", "تزوير",
+
+    # ---- TERRORISMO ES ----
     "terrorismo","terrorista","terroristas","yihadismo","yihadista","yihadistas",
     "atentado","atentados","explosión","explosion","explosivo","explosivos",
     "célula","celula","célula terrorista","celula terrorista",
     "radicalización","radicalizacion","reclutamiento",
     "estado islámico","estado islamico","daesh","isis","al qaeda","aqmi",
+
+    # ---- TERRORISMO FR ----
     "terrorisme","terroriste","terroristes",
     "djihadisme","djihadiste","djihadistes",
     "attentat","attentats","explosif","explosifs",
     "cellule terroriste","radicalisation","recrutement",
     "etat islamique","état islamique","daech","al qaida",
+
+    # ---- TERRORISMO AR ----
     "إرهاب","ارهاب","إرهابي","إرهابية","تطرف",
     "جهاد","جهادي","تفجير","متفجرات",
     "خلية إرهابية","داعش","تنظيم الدولة","القاعدة",
@@ -73,9 +86,10 @@ COMBINACIONES_ESPECIALES = [
     ("document", "faux"), ("falsification", "documents"), ("مركبة", "مسروقة"), ("مركبات", "مسروقة"),
     ("سيارة", "مسروقة"), ("سيارات", "مسروقة"), ("دراجة", "نارية"), ("دراجات", "نارية"),
     ("لوحة", "مزورة"), ("لوحات", "مزورة"), ("وثائق", "مزورة"), ("تزوير", "الوثائق"),
-    ("قارب", "موت"), ("حبوب", "مهلوسة"), ("حبوب", "مخدرة")("خلية","إرهابية"),("célula","terrorista"),
-    ("cellule","terroriste"),
+    ("قارب", "موت"), ("حبوب", "مهلوسة"), ("حبوب", "مخدرة"),
+    ("خلية","إرهابية"), ("célula","terrorista"), ("cellule","terroriste"),
 ]
+
 COMBINACIONES_TRIPLES = [
     ("ministerio","interior","informe estadístico"),
     ("ministerio","interior","balance"),
@@ -99,7 +113,7 @@ RSS_FEEDS = [
     "https://bladna24.ma/feed/",
     "https://tanjanews.com/feed",
     "https://presstetouan.com/feed",
-    "https://telquel.ma/feed/",  # Usamos la versión principal
+    "https://telquel.ma/feed/",
     "https://casapress.net/feed",
     "https://lematin.ma/rss",
     "https://aujourdhui.ma/feed",
@@ -123,7 +137,9 @@ RSS_FEEDS = [
     "https://www.lavieeco.com/feed/",
     "http://www.leconomiste.com/categorie/economie/feed",
     "http://www.almassae.press.ma/rss",
-    "http://assabah.ma/feed/"
+    "http://assabah.ma/feed/",
+
+    # CEUTA / MELILLA
     "https://elfarodeceuta.es/feed",
     "https://elfarodeceuta.es/sucesos-seguridad/feed",
     "https://www.ceutaactualidad.com/rss/",
@@ -131,22 +147,24 @@ RSS_FEEDS = [
     "https://www.melillaactualidad.com/rss/",
 ]
 
-# === FUNCIONES UTILITARIAS ===
-
+# === UTILIDADES ===
 def cargar_ids_notificados():
     if not os.path.exists(HISTORIAL_FILE):
         return set()
-    with open(HISTORIAL_FILE, 'r') as f:
-        return set(line.strip() for line in f)
+    with open(HISTORIAL_FILE, 'r', encoding='utf-8') as f:
+        return set(line.strip() for line in f if line.strip())
 
 def guardar_id_notificado(unique_id):
-    with open(HISTORIAL_FILE, 'a') as f:
+    with open(HISTORIAL_FILE, 'a', encoding='utf-8') as f:
         f.write(unique_id + "\n")
     notificados.add(unique_id)
 
 def log_event(text):
-    with open(LOG_FILE, 'a', encoding='utf-8') as log:
-        log.write(f"[{datetime.now()}] {text}\n")
+    try:
+        with open(LOG_FILE, 'a', encoding='utf-8') as log:
+            log.write(f"[{datetime.now()}] {text}\n")
+    except Exception:
+        print("LOG ERROR:", text)
 
 def contiene_palabra_clave(texto):
     for palabra in GENERAL_KEYWORDS:
@@ -166,27 +184,16 @@ def contiene_palabra_clave(texto):
 
     return False
 
-def texto_ya_en_espanol(texto):
-    comunes = ["el", "la", "de", "que", "y", "en", "los", "las"]
-    return sum(1 for p in comunes if p in texto.lower()) >= 3
-
-def traducir_texto(texto, target='es'):
-    return None
-
-
 def enviar_telegram(mensaje):
     try:
         for chat_id in CHAT_IDS:
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
             data = {"chat_id": chat_id, "text": mensaje, "parse_mode": "HTML"}
-            response = requests.post(url, data=data)
-            if not response.ok:
-                log_event(f"❌ Error al enviar a {chat_id}: {response.text}")
+            r = requests.post(url, data=data, timeout=20)
+            if not r.ok:
+                log_event(f"❌ Error al enviar a {chat_id}: {r.status_code} {r.text[:200]}")
     except Exception as e:
         log_event(f"❌ Error general al enviar mensaje: {e}")
-
-
-# === FUNCIONES PRINCIPALES ===
 
 def revisar_rss():
     for url in RSS_FEEDS:
@@ -198,37 +205,28 @@ def revisar_rss():
                 summary = entry.get("summary", "")
                 uid = link or title
 
-                if uid in notificados:
+                if not uid or uid in notificados:
                     continue
 
                 texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
-                    if not texto_ya_en_espanol(texto):
-                        traduccion = traducir_texto(texto)
-                        mensaje = (
-                            f"📰 <b>{title}</b>\n🌍 <i>{traduccion}</i>\n🔗 {link}"
-                            if traduccion else f"📰 <b>{title}</b>\n🔗 {link}"
-                        )
-                    else:
-                        mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
-
+                    mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
                     enviar_telegram(mensaje)
                     guardar_id_notificado(uid)
                     log_event(f"✅ Enviada noticia: {title}")
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
-            enviar_telegram(f"⚠️ Error en feed: {url}\n{e}")
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
         return False
-    with open(ULTIMO_RESUMEN_FILE) as f:
+    with open(ULTIMO_RESUMEN_FILE, encoding='utf-8') as f:
         return f.read().strip() == datetime.now().strftime("%Y-%m-%d")
 
 def marcar_resumen_enviado():
-    with open(ULTIMO_RESUMEN_FILE, "w") as f:
+    with open(ULTIMO_RESUMEN_FILE, "w", encoding='utf-8') as f:
         f.write(datetime.now().strftime("%Y-%m-%d"))
 
 def enviar_resumen_diario():
@@ -249,7 +247,9 @@ def enviar_resumen_diario():
     texto = f"🗞️ <b>Resumen diario ({hoy})</b>\n\n"
     if resumenes:
         texto += f"✅ {len(resumenes)} noticias enviadas hoy:\n"
-        texto += "\n".join([f"• {t}" for t in resumenes])
+        texto += "\n".join([f"• {t}" for t in resumenes[:50]])
+        if len(resumenes) > 50:
+            texto += f"\n\n(+{len(resumenes)-50} más)"
     else:
         texto += "No se enviaron noticias hoy."
 
@@ -257,8 +257,7 @@ def enviar_resumen_diario():
     marcar_resumen_enviado()
 
 # === FLASK KEEP-ALIVE ===
-
-app = Flask('')
+app = Flask(__name__)
 
 @app.route('/')
 def home():
@@ -267,23 +266,22 @@ def home():
 def run():
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)), debug=False)
 
-
-
 def keep_alive():
     Thread(target=run).start()
 
-# === MANEJO DE SEÑALES ===
-
+# === SEÑALES ===
 def manejar_salida_graciosa(signum, frame):
-    enviar_telegram("⚠️ El bot de noticias se ha detenido (señal recibida)")
+    try:
+        enviar_telegram("⚠️ El bot de noticias se ha detenido (señal recibida)")
+    except:
+        pass
     log_event("⚠️ Bot detenido por señal")
     sys.exit(0)
 
 signal.signal(signal.SIGINT, manejar_salida_graciosa)
 signal.signal(signal.SIGTERM, manejar_salida_graciosa)
 
-# === INICIO DEL BOT ===
-
+# === INICIO ===
 notificados = cargar_ids_notificados()
 keep_alive()
 
@@ -295,15 +293,18 @@ try:
     while True:
         ultimo_latido = time.time()
         revisar_rss()
+
         if datetime.now().strftime("%H:%M") == "23:55":
             enviar_resumen_diario()
+
         time.sleep(60)
 
 except Exception as e:
+    traceback.print_exc()
     msg = f"❌ Error:\n{e}"
     enviar_telegram(msg)
     log_event(msg)
 
 finally:
     enviar_telegram("⚠️ Bot desconectado")
-log_event("⚠️ Bot desconectado (bloque finally)")
+    log_event("⚠️ Bot desconectado (bloque finally)")
