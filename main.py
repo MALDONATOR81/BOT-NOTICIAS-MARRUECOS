@@ -52,6 +52,19 @@ GENERAL_KEYWORDS = [
     "مهاجرين سريين", "قارب", "قوارب الموت", "مهاجرين غير شرعيين", "سيارة مسروقة", "سيارات مسروقة",
     "مركبة مسروقة", "مركبات مسروقة", "دراجة نارية مسروقة", "دراجات نارية مسروقة", "لوحة مزورة",
     "لوحات مزورة", "وثائق مزورة", "تزوير الوثائق", "تزوير"
+    "terrorismo","terrorista","terroristas","yihadismo","yihadista","yihadistas",
+    "atentado","atentados","explosión","explosion","explosivo","explosivos",
+    "célula","celula","célula terrorista","celula terrorista",
+    "radicalización","radicalizacion","reclutamiento",
+    "estado islámico","estado islamico","daesh","isis","al qaeda","aqmi",
+    "terrorisme","terroriste","terroristes",
+    "djihadisme","djihadiste","djihadistes",
+    "attentat","attentats","explosif","explosifs",
+    "cellule terroriste","radicalisation","recrutement",
+    "etat islamique","état islamique","daech","al qaida",
+    "إرهاب","ارهاب","إرهابي","إرهابية","تطرف",
+    "جهاد","جهادي","تفجير","متفجرات",
+    "خلية إرهابية","داعش","تنظيم الدولة","القاعدة",
 ]
 
 COMBINACIONES_ESPECIALES = [
@@ -60,7 +73,19 @@ COMBINACIONES_ESPECIALES = [
     ("document", "faux"), ("falsification", "documents"), ("مركبة", "مسروقة"), ("مركبات", "مسروقة"),
     ("سيارة", "مسروقة"), ("سيارات", "مسروقة"), ("دراجة", "نارية"), ("دراجات", "نارية"),
     ("لوحة", "مزورة"), ("لوحات", "مزورة"), ("وثائق", "مزورة"), ("تزوير", "الوثائق"),
-    ("قارب", "موت"), ("حبوب", "مهلوسة"), ("حبوب", "مخدرة")
+    ("قارب", "موت"), ("حبوب", "مهلوسة"), ("حبوب", "مخدرة")("خلية","إرهابية"),("célula","terrorista"),
+    ("cellule","terroriste"),
+]
+COMBINACIONES_TRIPLES = [
+    ("ministerio","interior","informe estadístico"),
+    ("ministerio","interior","balance"),
+    ("ministerio","interior","memorándum"),
+    ("ministère","intérieur","rapport statistique"),
+    ("ministère","intérieur","bilan"),
+    ("ministère","intérieur","mémorandum"),
+    ("وزارة","الداخلية","تقرير إحصائي"),
+    ("وزارة","الداخلية","حصيلة"),
+    ("وزارة","الداخلية","مذكرة"),
 ]
 
 # === FUENTES RSS ===
@@ -99,6 +124,11 @@ RSS_FEEDS = [
     "http://www.leconomiste.com/categorie/economie/feed",
     "http://www.almassae.press.ma/rss",
     "http://assabah.ma/feed/"
+    "https://elfarodeceuta.es/feed",
+    "https://elfarodeceuta.es/sucesos-seguridad/feed",
+    "https://www.ceutaactualidad.com/rss/",
+    "https://www.ceutaldia.com/rss/",
+    "https://www.melillaactualidad.com/rss/",
 ]
 
 # === FUNCIONES UTILITARIAS ===
@@ -122,9 +152,18 @@ def contiene_palabra_clave(texto):
     for palabra in GENERAL_KEYWORDS:
         if re.search(rf'\b{re.escape(palabra)}\b', texto, re.IGNORECASE):
             return True
+
     for p1, p2 in COMBINACIONES_ESPECIALES:
-        if re.search(rf'\b{re.escape(p1)}\b', texto, re.IGNORECASE) and re.search(rf'\b{re.escape(p2)}\b', texto, re.IGNORECASE):
+        if (re.search(rf'\b{re.escape(p1)}\b', texto, re.IGNORECASE) and
+            re.search(rf'\b{re.escape(p2)}\b', texto, re.IGNORECASE)):
             return True
+
+    for p1, p2, p3 in COMBINACIONES_TRIPLES:
+        if (re.search(rf'\b{re.escape(p1)}\b', texto, re.IGNORECASE) and
+            re.search(rf'\b{re.escape(p2)}\b', texto, re.IGNORECASE) and
+            re.search(rf'\b{re.escape(p3)}\b', texto, re.IGNORECASE)):
+            return True
+
     return False
 
 def texto_ya_en_espanol(texto):
