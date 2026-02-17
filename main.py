@@ -9,6 +9,8 @@ import signal
 import sys
 from datetime import datetime
 import traceback
+import hashlib
+from urllib.parse import urlsplit, urlunsplit
 
 # === LATIDO DEL BOT (Monitor anti-cuelgue) ===
 ultimo_latido = time.time()
@@ -33,6 +35,8 @@ CHAT_IDS = ['396759277', '-1002681283803']
 HISTORIAL_FILE = "notificados.txt"
 LOG_FILE = "registro.log"
 ULTIMO_RESUMEN_FILE = "ultimo_resumen.txt"
+LOCK_FILE = "bot.lock"
+MAX_IDS = 10000
 
 # === PALABRAS CLAVE ===
 GENERAL_KEYWORDS = [
@@ -148,6 +152,46 @@ RSS_FEEDS = [
 ]
 
 # === UTILIDADES ===
+def normalizar_url(url: str) -> str:
+    if not url:
+        return ""
+    try:
+        parts = urlsplit(url.strip())
+        clean = parts._replace(query="", fragment="")
+        scheme = "https" if clean.scheme in ("http", "https") else clean.scheme
+        clean = clean._replace(scheme=scheme)
+        u = urlunsplit(clean).rstrip("/")
+        return u
+    except:
+        return url.strip()
+
+def construir_uid(entry) -> str:
+    link = normalizar_url(entry.get("link", ""))
+    guid = entry.get("id") or entry.get("guid") or ""
+    published = entry.get("published", "") or entry.get("updated", "") or ""
+    title = (entry.get("title", "") or "").strip().lower()
+
+    base = "|".join([guid.strip(), link, published.strip(), title])
+    if not base.strip():
+        return ""
+    return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
+
+def adquirir_lock():
+    if os.path.exists(LOCK_FILE):
+        try:
+            with open(LOCK_FILE, "r", encoding="utf-8") as f:
+                pid_str = f.read().strip()
+            if pid_str.isdigit():
+                pid = int(pid_str)
+                os.kill(pid, 0)  # comprueba si existe el proceso
+                print("⚠️ Ya hay una instancia del bot ejecutándose. Salgo.")
+                sys.exit(0)
+        except:
+            pass
+
+    with open(LOCK_FILE, "w", encoding="utf-8") as f:
+        f.write(str(os.getpid()))
+
 def cargar_ids_notificados():
     if not os.path.exists(HISTORIAL_FILE):
         return set()
@@ -155,9 +199,23 @@ def cargar_ids_notificados():
         return set(line.strip() for line in f if line.strip())
 
 def guardar_id_notificado(unique_id):
-    with open(HISTORIAL_FILE, 'a', encoding='utf-8') as f:
-        f.write(unique_id + "\n")
     notificados.add(unique_id)
+
+    try:
+        ids = list(notificados)
+
+        # Limita tamaño (evita crecimiento infinito)
+        if len(ids) > MAX_IDS:
+            ids = ids[-MAX_IDS:]
+
+        # Reescribe el archivo completo (más estable que append)
+        with open(HISTORIAL_FILE, 'w', encoding='utf-8') as f:
+            for x in ids:
+                f.write(x + "\n")
+
+    except Exception as e:
+        log_event(f"❌ Error guardando historial: {e}")
+
 
 def log_event(text):
     try:
