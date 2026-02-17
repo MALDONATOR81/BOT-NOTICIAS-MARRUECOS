@@ -216,7 +216,6 @@ def guardar_id_notificado(unique_id):
     except Exception as e:
         log_event(f"❌ Error guardando historial: {e}")
 
-
 def log_event(text):
     try:
         with open(LOG_FILE, 'a', encoding='utf-8') as log:
@@ -257,22 +256,27 @@ def revisar_rss():
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
+
             for entry in feed.entries:
                 link = entry.get("link", "")
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
-                uid = link or title
 
+                uid = construir_uid(entry)
                 if not uid or uid in notificados:
                     continue
 
                 texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
-                    mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
+                    link_norm = normalizar_url(link) or link
+                    mensaje = f"📰 <b>{title}</b>\n🔗 {link_norm}"
                     enviar_telegram(mensaje)
                     guardar_id_notificado(uid)
                     log_event(f"✅ Enviada noticia: {title}")
+
+        except Exception as e:
+            log_event(f"⚠️ Error en feed {url}: {e}")
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
@@ -340,6 +344,8 @@ signal.signal(signal.SIGINT, manejar_salida_graciosa)
 signal.signal(signal.SIGTERM, manejar_salida_graciosa)
 
 # === INICIO ===
+# === INICIO ===
+adquirir_lock()
 notificados = cargar_ids_notificados()
 keep_alive()
 
