@@ -281,11 +281,12 @@ def revisar_rss():
         try:
             feed = feedparser.parse(url)
 
-            for entry in feed.entries:
+            for entry in feed.entries[:30]:
                 link = entry.get("link", "")
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
 
+                link = normalizar_url(link) or link
                 uid_medio = uid_por_medio(url, link, title)
 
                 if not uid_medio or uid_medio in notificados:
@@ -294,14 +295,14 @@ def revisar_rss():
                 texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
-                    link_norm = normalizar_url(link) or link
-                    mensaje = f"📰 <b>{title}</b>\n🔗 {link_norm}"
+                    mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
                     enviar_telegram(mensaje)
                     guardar_id_notificado(uid_medio)
                     log_event(f"✅ Enviada noticia: {title}")
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
+
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
@@ -365,7 +366,6 @@ def manejar_salida_graciosa(signum, frame):
 signal.signal(signal.SIGINT, manejar_salida_graciosa)
 signal.signal(signal.SIGTERM, manejar_salida_graciosa)
 
-# === INICIO ===
 # === INICIO ===
 adquirir_lock()
 notificados = cargar_ids_notificados()
