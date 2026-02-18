@@ -11,6 +11,7 @@ from datetime import datetime
 import traceback
 import hashlib
 from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import urlparse
 
 # === LATIDO DEL BOT (Monitor anti-cuelgue) ===
 ultimo_latido = time.time()
@@ -152,6 +153,29 @@ RSS_FEEDS = [
 ]
 
 # === UTILIDADES ===
+def normalizar_titulo(t: str) -> str:
+    if not t:
+        return ""
+    t = t.lower().strip()
+    t = re.sub(r"[^a-z0-9áéíóúüñçàèìòùâêîôûäëïöü\s-]", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+def dominio_de_feed(feed_url: str) -> str:
+    try:
+        return urlparse(feed_url).netloc.lower()
+    except:
+        return (feed_url or "").lower()
+
+def uid_por_medio(feed_url: str, link: str, title: str) -> str:
+    dom = dominio_de_feed(feed_url)
+    link_norm = normalizar_url(link)
+
+    base = link_norm or normalizar_titulo(title)
+    if not base:
+        return ""
+    return "M_" + hashlib.sha1(f"{dom}|{base}".encode("utf-8", errors="ignore")).hexdigest()
+
 def normalizar_url(url: str) -> str:
     if not url:
         return ""
@@ -262,8 +286,9 @@ def revisar_rss():
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
 
-                uid = construir_uid(entry)
-                if not uid or uid in notificados:
+                uid_medio = uid_por_medio(url, link, title)
+
+                if not uid_medio or uid_medio in notificados:
                     continue
 
                 texto = f"{title} {summary}"
@@ -272,11 +297,8 @@ def revisar_rss():
                     link_norm = normalizar_url(link) or link
                     mensaje = f"📰 <b>{title}</b>\n🔗 {link_norm}"
                     enviar_telegram(mensaje)
-                    guardar_id_notificado(uid)
+                    guardar_id_notificado(uid_medio)
                     log_event(f"✅ Enviada noticia: {title}")
-
-        except Exception as e:
-            log_event(f"⚠️ Error en feed {url}: {e}")
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
