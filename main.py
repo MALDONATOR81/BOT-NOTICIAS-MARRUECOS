@@ -281,21 +281,24 @@ def revisar_rss():
         try:
             feed = feedparser.parse(url)
 
-           for entry in feed.entries[:30]:
-        link = entry.get("link", "")
-        title = entry.get("title", "")
-        summary = entry.get("summary", "")
-    
-        link = normalizar_url(link) or link
-        uid_medio = uid_por_medio(url, link, title)
-    
-        if not uid_medio:
-            continue
-    
-        if uid_medio in notificados:
-            continue
+            for entry in feed.entries[:30]:
+                link = entry.get("link", "")
+                title = entry.get("title", "")
+                summary = entry.get("summary", "")
 
-        texto = f"{title} {summary}"
+                # Normaliza link y crea UID por medio
+                link = normalizar_url(link) or link
+                uid_medio = uid_por_medio(url, link, title)
+
+                # Si no hay uid, pasa
+                if not uid_medio:
+                    continue
+
+                # Si ya está notificado, pasa
+                if uid_medio in notificados:
+                    continue
+
+                texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
                     mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
@@ -305,7 +308,6 @@ def revisar_rss():
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
-
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
