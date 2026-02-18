@@ -281,18 +281,21 @@ def revisar_rss():
         try:
             feed = feedparser.parse(url)
 
-            for entry in feed.entries[:30]:
-                link = entry.get("link", "")
-                title = entry.get("title", "")
-                summary = entry.get("summary", "")
+           for entry in feed.entries[:30]:
+        link = entry.get("link", "")
+        title = entry.get("title", "")
+        summary = entry.get("summary", "")
+    
+        link = normalizar_url(link) or link
+        uid_medio = uid_por_medio(url, link, title)
+    
+        if not uid_medio:
+            continue
+    
+        if uid_medio in notificados:
+            continue
 
-                link = normalizar_url(link) or link
-                uid_medio = uid_por_medio(url, link, title)
-
-                if not uid_medio or uid_medio in notificados:
-                    continue
-
-                texto = f"{title} {summary}"
+        texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
                     mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
