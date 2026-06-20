@@ -197,6 +197,11 @@ RSS_FEEDS = [
     "https://www.melillaactualidad.com/rss/",
 ]
 
+print(f"Total de feeds: {len(RSS_FEEDS)}")
+
+for url in RSS_FEEDS:
+    print(f"Feed cargado: {url}")
+    
 # === UTILIDADES ===
 def normalizar_titulo(t: str) -> str:
     if not t:
