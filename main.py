@@ -23,8 +23,8 @@ def monitor_actividad():
                 enviar_telegram("⚠️ El bot dejó de latir. Posible cuelgue o apagado inesperado.")
             except:
                 pass
-            log_event("❗ Latido perdido. Forzando salida.")
-            os._exit(1)
+            log_event("❗ Latido perdido. No se fuerza salida para evitar reinicios en bucle.")
+            # No se usa os._exit(1) porque provocaba reinicios y duplicados en Render.
         time.sleep(60)
 
 Thread(target=monitor_actividad, daemon=True).start()
@@ -38,6 +38,7 @@ LOG_FILE = "registro.log"
 ULTIMO_RESUMEN_FILE = "ultimo_resumen.txt"
 LOCK_FILE = "bot.lock"
 MAX_IDS = 10000
+STARTUP_SYNC_ENTRIES = 30
 
 # === PALABRAS CLAVE ===
 GENERAL_KEYWORDS = [
@@ -197,7 +198,10 @@ RSS_FEEDS = [
     "https://www.melillaactualidad.com/rss/",
 ]
 
-print(f"Total de feeds: {len(RSS_FEEDS)}")
+# Elimina feeds duplicados manteniendo el orden original
+RSS_FEEDS = list(dict.fromkeys(RSS_FEEDS))
+
+print(f"Total de feeds únicos: {len(RSS_FEEDS)}")
 
 for url in RSS_FEEDS:
     print(f"Feed cargado: {url}")
@@ -225,6 +229,12 @@ def uid_por_medio(feed_url: str, link: str, title: str) -> str:
     if not base:
         return ""
     return "M_" + hashlib.sha1(f"{dom}|{base}".encode("utf-8", errors="ignore")).hexdigest()
+
+def uid_por_titulo(title: str) -> str:
+    title_norm = normalizar_titulo(title)
+    if not title_norm:
+        return ""
+    return "T_" + hashlib.sha1(title_norm.encode("utf-8", errors="ignore")).hexdigest()
 
 def normalizar_url(url: str) -> str:
     if not url:
@@ -326,38 +336,86 @@ def enviar_telegram(mensaje):
     except Exception as e:
         log_event(f"❌ Error general al enviar mensaje: {e}")
 
+def leer_feed(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 BotNoticiasMarruecos/1.0"
+    }
+    r = requests.get(url, headers=headers, timeout=10)
+    r.raise_for_status()
+    return feedparser.parse(r.content)
+
 def revisar_rss():
     for url in RSS_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            log_event(f"🔎 Revisando feed: {url}")
+            feed = leer_feed(url)
 
             for entry in feed.entries[:30]:
                 link = entry.get("link", "")
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
 
-                # Normaliza link y crea UID por medio
+                # Normaliza link y crea UID por medio y por título
                 link = normalizar_url(link) or link
                 uid_medio = uid_por_medio(url, link, title)
+                uid_titulo = uid_por_titulo(title)
 
                 # Si no hay uid, pasa
                 if not uid_medio:
                     continue
 
-                # Si ya está notificado, pasa
-                if uid_medio in notificados:
+                # Si ya está notificado por enlace/medio o por título, pasa
+                if uid_medio in notificados or uid_titulo in notificados:
                     continue
 
                 texto = f"{title} {summary}"
 
                 if contiene_palabra_clave(texto):
                     mensaje = f"📰 <b>{title}</b>\n🔗 {link}"
-                    enviar_telegram(mensaje)
+
+                    # Se guarda antes de enviar para evitar duplicados si Render reinicia justo después
                     guardar_id_notificado(uid_medio)
+                    if uid_titulo:
+                        guardar_id_notificado(uid_titulo)
+
+                    enviar_telegram(mensaje)
                     log_event(f"✅ Enviada noticia: {title}")
 
         except Exception as e:
             log_event(f"⚠️ Error en feed {url}: {e}")
+
+
+def inicializar_historial_si_vacio():
+    global notificados
+
+    if notificados:
+        return
+
+    log_event("ℹ️ Historial vacío. Sincronizando noticias actuales sin enviarlas para evitar duplicados al arrancar.")
+
+    contador = 0
+
+    for url in RSS_FEEDS:
+        try:
+            feed = leer_feed(url)
+
+            for entry in feed.entries[:STARTUP_SYNC_ENTRIES]:
+                link = normalizar_url(entry.get("link", ""))
+                title = entry.get("title", "")
+                uid_medio = uid_por_medio(url, link, title)
+                uid_titulo = uid_por_titulo(title)
+
+                if uid_medio:
+                    guardar_id_notificado(uid_medio)
+                    contador += 1
+
+                if uid_titulo:
+                    guardar_id_notificado(uid_titulo)
+
+        except Exception as e:
+            log_event(f"⚠️ Error sincronizando feed inicial {url}: {e}")
+
+    log_event(f"✅ Sincronización inicial completada. Noticias marcadas como vistas: {contador}")
 
 def resumen_diario_ya_enviado():
     if not os.path.exists(ULTIMO_RESUMEN_FILE):
@@ -404,10 +462,15 @@ def home():
     return "Bot activo 🚀"
 
 def run():
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)), debug=False)
+    app.run(
+        host='0.0.0.0',
+        port=int(os.environ.get('PORT', 10000)),
+        debug=False,
+        use_reloader=False
+    )
 
 def keep_alive():
-    Thread(target=run).start()
+    Thread(target=run, daemon=True).start()
 
 # === SEÑALES ===
 def manejar_salida_graciosa(signum, frame):
@@ -424,6 +487,7 @@ signal.signal(signal.SIGTERM, manejar_salida_graciosa)
 # === INICIO ===
 adquirir_lock()
 notificados = cargar_ids_notificados()
+inicializar_historial_si_vacio()
 keep_alive()
 
 print("🟢 Bot de noticias iniciado...")
